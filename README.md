@@ -1,2 +1,2 @@
 # machine-learning
-ML part of our Bangkit Capstone project
+ML part of our Bangkit Capstone project.
