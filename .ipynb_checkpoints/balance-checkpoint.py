@@ -22,4 +22,4 @@ for i in reviews['user_reviews']:
             reviews_ratings.append(review_rating)
 
 reviews_ratings_df = pd.DataFrame(reviews_ratings)
-reviews_ratings_df.to_csv('cleaned_data.csv', index=False)
+reviews_ratings_df.to_csv('balanced_data.csv', index=False)
