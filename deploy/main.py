@@ -51,6 +51,42 @@ def prep_pred(text):
 
 app = FastAPI()
 
+@app.get("/get-travel-spots")
+def get_travel_spots():
+    return {
+        'places': [
+            {
+                'name': 'Monas',
+                'image': 'gambar-monas.jpg',
+                'location': 'Jakarta, Indonesia',
+                'description': 'Tempat wisata ikonik di Jakarta',
+                'user_review': [
+                    {
+                        'text': 'Tempatnya sangat bagus, sejuk, suasananya indah'
+                    },
+                    {
+                        'text': 'Tempatnya sangat buruk, bangunan rusak, saya tidak rekomendasikan'
+                    }
+                ]
+            },
+            {
+                'name': 'Ancol',
+                'image': 'gambar-ancol.png',
+                'location': 'Jakarta, Indonesia',
+                'description': 'Tempat wisata air ikonik di Jakarta',
+                'user_review': [
+                    {
+                        'text': 'Tempatnya biasa saja, tidak terlalu bagus, tidak terlalu buruk'
+                    },
+                    {
+                        'text': 'Tempatnya sangat kotor, tidak terawat, tidak nyaman'
+                    }
+                ]
+            }
+        ]
+    }
+
+
 @app.post("/predict")
 def predict(data: Place):
     res = []
