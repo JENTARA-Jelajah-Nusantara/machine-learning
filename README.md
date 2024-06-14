@@ -10,7 +10,7 @@
 3. Masukkan Google Maps API Key di ```app/routes/get_travel_spots.py``` ```"X-Goog-Api-Key": "Insert API Key di sini"```
 
 ## Jalankan API
-1. Clone Repository ```git clone -b ridho https://github.com/JENTARA-Jelajah-Nusantara/machine-learning.git --depth=1```
+1. Clone Repository ```git clone https://github.com/JENTARA-Jelajah-Nusantara/machine-learning.git --depth=1```
 2. ```cd app```
 3. Jalankan server ```fastapi dev main.py```
 
@@ -31,10 +31,10 @@ Route ini dapat menerima 4 params:
 
 Contoh penggunaan.
 Misalnya kita mau fetch tempat wisata dengan rincian:
-1. Kategori: zoo, restaurant.
+1. Kategori =  zoo, restaurant.
 2. Latitude = -6.2088 (Jakarta)
 3. Longitude = 106.8456 (Jakarta)
-4. Radius: 2000 meter
+4. Radius = 2000 meter
 
 Param yang dipakai adalah:
 ```/api/get-travel-spots?includedTypes=zoo&includedTypes=restaurant&radius=2000&longitude=106.8456&latitude=-6.2088```
