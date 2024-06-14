@@ -6,7 +6,7 @@
     - Sastrawi
     - FastAPI
     - NumPy
-2. Masukkan Path ke model ML di ```app/config.py``` ```MODEL_PATH```
+2. Masukkan path hasil training (format h5) ML di ```app/config.py``` ```MODEL_PATH```
 3. Masukkan Google Maps API Key di ```app/routes/get_travel_spots.py``` ```"X-Goog-Api-Key": "Insert API Key di sini"```
 
 ## Jalankan API
