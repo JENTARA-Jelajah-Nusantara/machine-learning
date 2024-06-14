@@ -1,0 +1,2259 @@
+{
+    "places": [
+      {
+        "formattedAddress": "Jl. Dr. GSSJ Ratulangi No.9 15, RT.2/RW.3, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+        "location": {
+          "latitude": -6.1900150000000007,
+          "longitude": 106.8311801
+        },
+        "displayName": {
+          "text": "Goethe-Institut Jakarta",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqaVlMY3dRRRAB",
+            "relativePublishTimeDescription": "sebulan yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "Pengalaman mengasyikkam selama berada di Goethe, atmosfer yang ada sangat kondusif terutama bagi yang ingin mempelajari bahasa dan Jerman secara keseluruhan. Top dan semoga sukses selalu! 😊👍",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Pengalaman mengasyikkam selama berada di Goethe, atmosfer yang ada sangat kondusif terutama bagi yang ingin mempelajari bahasa dan Jerman secara keseluruhan. Top dan semoga sukses selalu! 😊👍",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Muhammad Aryo Purwanto",
+              "uri": "https://www.google.com/maps/contrib/114605469401673602288/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAdJtUWkxXW3YNQ9_vtsiNM07er2lvFow4eCzgVv4yfLqeBF8rsw=s128-c0x00000000-cc-rp-mo-ba4"
+            },
+            "publishTime": "2024-04-23T04:23:22Z"
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6a2FTTG5RRRAB",
+            "relativePublishTimeDescription": "seminggu yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "Lingkungan yang baik,bersih,nyaman,aman,dan bertemu teman-teman baru maupun guru-guru pengajar yang sangat mengasikan sebagai pendukung pembelajaran.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Lingkungan yang baik,bersih,nyaman,aman,dan bertemu teman-teman baru maupun guru-guru pengajar yang sangat mengasikan sebagai pendukung pembelajaran.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Mario Gabriel Leonardo",
+              "uri": "https://www.google.com/maps/contrib/115765679674930551725/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWea-eajhC9GPT1sVGKGLwv7R8rF6s-qeu3mHCGVt2gAaUURiix=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2024-06-02T18:17:55Z"
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/reviews/ChdDSUhNMG9nS0VJQ0FnSURkMjlDYW93RRAB",
+            "relativePublishTimeDescription": "3 bulan lalu",
+            "rating": 5,
+            "text": {
+              "text": "Perpustakan paling cozyy di jakarta! Sepi, wifi kenceng, dan homey banget. Dtg weekend dgn operasional 11.00-19.00 WIB. Ga perlu registrasi. Jalan kaki dri stasiun gondangdiaa cuma 1km an :\")",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Perpustakan paling cozyy di jakarta! Sepi, wifi kenceng, dan homey banget. Dtg weekend dgn operasional 11.00-19.00 WIB. Ga perlu registrasi. Jalan kaki dri stasiun gondangdiaa cuma 1km an :\")",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Maimunah Mukhtar",
+              "uri": "https://www.google.com/maps/contrib/102537562178568781390/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUrt-5jIDqZ55a_cPE7aweeWcUB1qK2-5bQFKT6mmDc_j_1-Qd=s128-c0x00000000-cc-rp-mo-ba4"
+            },
+            "publishTime": "2024-03-05T13:58:05Z"
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/reviews/ChdDSUhNMG9nS0VJQ0FnSURObU5QZTBRRRAB",
+            "relativePublishTimeDescription": "4 bulan lalu",
+            "rating": 5,
+            "text": {
+              "text": "Perpustakaan ini sungguh luar biasa! Suasana yang nyaman dan rapi membuatnya tempat yang ideal untuk fokus mengerjakan tugas atau pekerjaan. Desainnya yang keren memberikan nuansa inspiratif, membuat pengalaman belajar menjadi lebih menyenangkan. Mantap banget untuk produktivitas",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Perpustakaan ini sungguh luar biasa! Suasana yang nyaman dan rapi membuatnya tempat yang ideal untuk fokus mengerjakan tugas atau pekerjaan. Desainnya yang keren memberikan nuansa inspiratif, membuat pengalaman belajar menjadi lebih menyenangkan. Mantap banget untuk produktivitas",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Nur Farida",
+              "uri": "https://www.google.com/maps/contrib/101855960193405094120/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjDcj3DHeBQrav_XL47IRZMH5dTm7sG4Om2EprJaNJBiD1CkeefA=s128-c0x00000000-cc-rp-mo-ba4"
+            },
+            "publishTime": "2024-01-20T13:49:50Z"
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0c1lQbktREAE",
+            "relativePublishTimeDescription": "4 bulan lalu",
+            "rating": 3,
+            "text": {
+              "text": "Sejujurnya, agak kecewa sih pas pertama kali coba dateng ke perpusnya karena berisik banget, itu perpus kan ya ? Apa kantin ? Soalnya banyak orang yang bercanda dengan ketawa yg kencang dan mengganggu. Ada yg berisik (menurut gue itu berisik banget sih) di dalam perpusnya. Ada yg berisik banget tepat di depan perpusnya (di luar perpusnya) bercanda ketawa yg mirip teriak, ini lembaga pendidikan atau terminal ya ? Kok cukup banyak orang yg bertingkah seperti bukan akademisi, tidak tau bagaimana caranya mengontrol volume suara dan tidak paham mengenal dan menyesuaikan diri dengan tempat. Ya lumayan kecewa lah, buat orang2 yg berniat emang mau fokus mengerjakan sesuatu atau belajar di perpus jadi buyar semua fokusnya. Seberisik itu. Ada petugas perpusnya, tapi herannya dia membiarkan itu semua, dia cuma negur orang yg menelpon di dalam perpus saja, sedangkan orang2 yg berisik dan ganggu ketenangan perpus dibiarkan gitu aja. Konyol deh. Kocak. Gue yg liatnya ngerasa penjaganya juga aneh banget.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Sejujurnya, agak kecewa sih pas pertama kali coba dateng ke perpusnya karena berisik banget, itu perpus kan ya ? Apa kantin ? Soalnya banyak orang yang bercanda dengan ketawa yg kencang dan mengganggu. Ada yg berisik (menurut gue itu berisik banget sih) di dalam perpusnya. Ada yg berisik banget tepat di depan perpusnya (di luar perpusnya) bercanda ketawa yg mirip teriak, ini lembaga pendidikan atau terminal ya ? Kok cukup banyak orang yg bertingkah seperti bukan akademisi, tidak tau bagaimana caranya mengontrol volume suara dan tidak paham mengenal dan menyesuaikan diri dengan tempat. Ya lumayan kecewa lah, buat orang2 yg berniat emang mau fokus mengerjakan sesuatu atau belajar di perpus jadi buyar semua fokusnya. Seberisik itu. Ada petugas perpusnya, tapi herannya dia membiarkan itu semua, dia cuma negur orang yg menelpon di dalam perpus saja, sedangkan orang2 yg berisik dan ganggu ketenangan perpus dibiarkan gitu aja. Konyol deh. Kocak. Gue yg liatnya ngerasa penjaganya juga aneh banget.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Gandri Ali Ma'sum",
+              "uri": "https://www.google.com/maps/contrib/118209570933970340524/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqTJyjlSkDZC5ZdbPM6Ur_fBT8JlXJnriRH1xzo1IyPZK100e5=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2024-02-05T07:55:27Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXW7aFJxjgeEZy7HjbMRsUBhcNpEStana3eK6yZBq55wl1gw2y7sKOdojQ9ekWA_rt4CsPkyip87tZtWTgP-mns6vAzdA64rp4yOCfiTTRmkT_Aa6cH2adEPYHTa5yEuYrFuIBkWJZ96eajxKM8UeS4aRKRvMXGk__qu",
+            "widthPx": 3456,
+            "heightPx": 4608,
+            "authorAttributions": [
+              {
+                "displayName": "Bintang Akbar Maulana",
+                "uri": "//maps.google.com/maps/contrib/114550365673209685016",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3MwV4v63HH1jxtECdScbeJtFbys-VR6Zr_gGXngy2km-6btm-9g=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXX11clgdeFBQNZ20OdyD3AXEv_79nDRemTasrdAWdG3svxHT7CcWzAEMvWlyLBq-GHCiVTu9e8gfJzKvHH-iRL4-faVb8t83gKJwSuvIsearuFaeKz8Fkc5RG_owuSJMJD5DWU0jhLZyJ_P5f70SzBMb13_7N9Xn35S",
+            "widthPx": 2268,
+            "heightPx": 4032,
+            "authorAttributions": [
+              {
+                "displayName": "Siti Nur Aisha Indra",
+                "uri": "//maps.google.com/maps/contrib/103460149556839872007",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFrO4jTVIEcsVfXBLPu6C5KuYuiiA9uX6I7EieQOhHFAu7z7jV=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXWaN31lIqpZ9abfLbTYJv542Ac3l9i8Wl5gOG0JHHGhKmPs8FmCTifToh196kMEUsnZxg6dQbc17DRDZ-bxu9KC-LF3xqL4mZXQHfeDl9fh1KiMfvbEg2hM8rhK56XlnZKvLYxE1Cl97av4JUfgMNzowqLQZnZu8rkp",
+            "widthPx": 2832,
+            "heightPx": 2416,
+            "authorAttributions": [
+              {
+                "displayName": "Reza",
+                "uri": "//maps.google.com/maps/contrib/111486383927430089326",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVixBNbafwLHgscJ0a6trs6nxD4uH2dKcF_Wcb3NlUC-tX0Cxm-=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXXR_ikoSAXhw-3ESPqBvS-OxXenkjwJmGbnxUszfjGHSVZRKqoDc2wv4MttJgf5wNRM0VIY6MKgGrnp6cgBAMXLR_uC-2pl9jLwVlAiKA9IURw9M-dfpjtx7oqlaUDlzAkGBWnCPkrPIFxyMMNPJLt-HfGK5BXvM6-2",
+            "widthPx": 4000,
+            "heightPx": 3000,
+            "authorAttributions": [
+              {
+                "displayName": "Reza",
+                "uri": "//maps.google.com/maps/contrib/111486383927430089326",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVixBNbafwLHgscJ0a6trs6nxD4uH2dKcF_Wcb3NlUC-tX0Cxm-=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXXeBoYGypje4nF_0BPpxqT7HRPjmE7NLdbzueeuzPlPkk708GBWzNz_WPJuhTQrU1-oPVqD-osXbQiFOQbOn9Z5orp_XCf6H1zA0Tax6fLRu8FXWdVd2Chi05WXrzRk7Mj3jvePWEX4Ifma_JkfsfOmHeGmvT7yrD7V",
+            "widthPx": 3456,
+            "heightPx": 4608,
+            "authorAttributions": [
+              {
+                "displayName": "Bintang Akbar Maulana",
+                "uri": "//maps.google.com/maps/contrib/114550365673209685016",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3MwV4v63HH1jxtECdScbeJtFbys-VR6Zr_gGXngy2km-6btm-9g=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXXufR_Le51TXydusFB1YUgndCwsohtv9-CKcK6UUbozdXAVWQAOOgE2WIS40y_MClXeosrNYavLrJ58lyUqUF_vAeJ4oMR_uwBiIRfA8MAvuGhkrlApNpetUoV_3Jk_C3MlNZuQrsU9E1Ot2J-R77jTKqyLntAwfxYp",
+            "widthPx": 4160,
+            "heightPx": 3120,
+            "authorAttributions": [
+              {
+                "displayName": "Imelda Ginting",
+                "uri": "//maps.google.com/maps/contrib/106292512226110416939",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUV3vN2dxZT9PxbNTMZ7Q3KvfkLUNPutWdsAOFZAxPO-P6WRWLC=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXWb2jr-4zOnaCd2eU_P9cROy79T1MFDxwHM9-PY5KNUq9Wfi3eQ90vpFm8ANSctnmdbKy330qBsk8FBeI4qqX4e5KKSTNfG3Ztj9W1M5BoLP1LQlyVEoOcWlHGCjh1KsarVhwZes14PcONm_oQSQPGxyJzqR2bfZTtJ",
+            "widthPx": 4160,
+            "heightPx": 3120,
+            "authorAttributions": [
+              {
+                "displayName": "Azzam Frizie",
+                "uri": "//maps.google.com/maps/contrib/103270743670407086394",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVBlR6fJZhQ24x63xKRNfnaLA74ziB98XpopgfafAzHLb4wYYhg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXXhqmI6K0VkbLY1rakw1XZ-pOrsDcQZiGt1rNZDEYiwhqjfkXHnCB9UB36nR_49z3l14QsVKDuOUlYfGLYITCnrnPwoGCRr2XMU0gkbwfVZjCXR3tty7YQQbbaL70R5qrVOlUXyrXULlnf1zc4FNdu5MKsXDaQ2T91r",
+            "widthPx": 4624,
+            "heightPx": 3472,
+            "authorAttributions": [
+              {
+                "displayName": "Abdon Djuliawan",
+                "uri": "//maps.google.com/maps/contrib/108050255117660900385",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWyeuboNLtLFUdlLJna0BwT9FJ17FsP4sC0L0nqouRUQWSqOA8TdA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXWdJL8kChTxxGpQAZ4dm_jJtX9SlABrTzV-V_VG8ZxFdUg7XLeYBQnhQ0xfxKFq5zTtF94PKr6h1VUJ48TSmAeJTu-q-Hyn09KjJ5wXGK27yPgU-Xftj1UOEzvgPza0x2-F1z4UVuWie6va16RLzcRZEB3ZeCuihoVU",
+            "widthPx": 900,
+            "heightPx": 599,
+            "authorAttributions": [
+              {
+                "displayName": "Goethe-Institut Jakarta",
+                "uri": "//maps.google.com/maps/contrib/101611332114897188412",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV1E5jnjnsuiFI02sDMEr42iovNnvESR6iUm8NnTSYfU0-mTxU=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJX-1Pemb0aS4RDxjeTJpohEg/photos/AUc7tXUY6ySKR6cAvdoBn1XSo9YVyQd1CeZKPr7nUAVb1A34MQKLHOL7AhOYvRQdKv7TmNey3iISA7-cJRIg3jZd9kjyys1m0xawu8uerKKMUQ8SQ0dFx3qOWTBWsDHfNx9K4Kcdm_66eGV6BNZUN_qtTIPpua0hcYGfU9XZ",
+            "widthPx": 3000,
+            "heightPx": 4000,
+            "authorAttributions": [
+              {
+                "displayName": "si bosh",
+                "uri": "//maps.google.com/maps/contrib/111726885233514124072",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUtLlXR958jmD6j5dF8MSXdrfH7gnJOLBcgSGRXkNZeG2oJMrTw=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Jl. M.H. Thamrin No.20, RT.9/RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+        "location": {
+          "latitude": -6.1891131,
+          "longitude": 106.8233795
+        },
+        "displayName": {
+          "text": "Institut français Indonésie",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUdTZlN3RBRRAB",
+            "relativePublishTimeDescription": "3 minggu yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "datang untuk acara climate fresk, tepatnya di bagian perpustakaannya. sebelum masuk akan di cek terlebih dulu oleh satpam. lokasinya sangat strategis, only 8 mins from MRT bundaran HI",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "datang untuk acara climate fresk, tepatnya di bagian perpustakaannya. sebelum masuk akan di cek terlebih dulu oleh satpam. lokasinya sangat strategis, only 8 mins from MRT bundaran HI",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "hafiza alifa",
+              "uri": "https://www.google.com/maps/contrib/102965474579427154460/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkRsxmejyyi4b7_YSg3dxRsHRB3DptDUU8-9z4bmjKaXZI-JKu=s128-c0x00000000-cc-rp-mo-ba3"
+            },
+            "publishTime": "2024-05-19T15:47:08Z"
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1eF9xSDdRRRAB",
+            "relativePublishTimeDescription": "8 bulan lalu",
+            "rating": 4,
+            "text": {
+              "text": "Kedua kali kesini. Dulu pertama kesini tuh sebelum tahun 2020. Acara nonton film. Uda lupa se sama sistem masuk dab. Kali ini kesini lg jg acara nonton. Mang ketat masuk sama keluarnya serba dijaga banget.\n\nBegitu masuk kedalam sebelum masuk ruangan ada taman kecil dengan gambar2 ditembok bisa untuk photo2 . Gambarnya terap sesuai nama tempatnya bertemakan paris yak.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Kedua kali kesini. Dulu pertama kesini tuh sebelum tahun 2020. Acara nonton film. Uda lupa se sama sistem masuk dab. Kali ini kesini lg jg acara nonton. Mang ketat masuk sama keluarnya serba dijaga banget.\n\nBegitu masuk kedalam sebelum masuk ruangan ada taman kecil dengan gambar2 ditembok bisa untuk photo2 . Gambarnya terap sesuai nama tempatnya bertemakan paris yak.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "intancennie",
+              "uri": "https://www.google.com/maps/contrib/100731844260140436618/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhRKE3U7KSpObGYj87k86ZzVnmyc5F66MpWZUKV9ms1bMCwgea=s128-c0x00000000-cc-rp-mo-ba7"
+            },
+            "publishTime": "2023-10-17T14:47:53Z"
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/reviews/ChdDSUhNMG9nS0VJQ0FnSURGMkllTl9BRRAB",
+            "relativePublishTimeDescription": "7 bulan lalu",
+            "rating": 5,
+            "text": {
+              "text": "perpusnya enak ada pilihan untuk baca buku atau aktivitas macam board game dll. tapi di bagian meja yang ada buku2nya ga ada colokan. pengen nanya sama penjaga perpus takut ternyata emg ga boleh laptopan lama2 disana wkwk jadi yaudah sebentar aja disana. pas masuk dari luar ga ditanya mau ngapain langsung masuk aja tapi scan badan sama tas dulu. beberapa kali kesini juga pas ada event nonton film",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "perpusnya enak ada pilihan untuk baca buku atau aktivitas macam board game dll. tapi di bagian meja yang ada buku2nya ga ada colokan. pengen nanya sama penjaga perpus takut ternyata emg ga boleh laptopan lama2 disana wkwk jadi yaudah sebentar aja disana. pas masuk dari luar ga ditanya mau ngapain langsung masuk aja tapi scan badan sama tas dulu. beberapa kali kesini juga pas ada event nonton film",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "iwana asmarani",
+              "uri": "https://www.google.com/maps/contrib/100150362486354250262/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8i8SsLPyDkESl4Af11vCnfG4s1sNN50z5Gg_YNNX-CYH3vSBl=s128-c0x00000000-cc-rp-mo-ba2"
+            },
+            "publishTime": "2023-11-04T19:29:26Z"
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEN3RpcFhREAE",
+            "relativePublishTimeDescription": "2 bulan lalu",
+            "rating": 1,
+            "text": {
+              "text": "Bisa diganti aja gak satpamnya? Saya datang dengan baik-baik menghadiri acara diskusi publik dimana IFI yang menyelenggarakan. Saya datang karena memiliki undangan kenapa saya seperti dipersulit untuk masuk? Saya paham bapak satpam punya prosedur tapi bisa kok tetap ramah dan santun dalam berbicara. Untuk image IFI yang terbuka, satpam IFI sama sekali tidak ramah dan tidak helpful. Sangat berbeda saat saya ke Instituto Italiano di Cultura dimana satpam di sana tetap melaksanakan pekerjaanya namun tidak menyakiti dan tidak menyinggung orang lain. Mereka masih bisa BERSIKAP RAMAH dan MEMANUSIAKAN MANUSIA.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Bisa diganti aja gak satpamnya? Saya datang dengan baik-baik menghadiri acara diskusi publik dimana IFI yang menyelenggarakan. Saya datang karena memiliki undangan kenapa saya seperti dipersulit untuk masuk? Saya paham bapak satpam punya prosedur tapi bisa kok tetap ramah dan santun dalam berbicara. Untuk image IFI yang terbuka, satpam IFI sama sekali tidak ramah dan tidak helpful. Sangat berbeda saat saya ke Instituto Italiano di Cultura dimana satpam di sana tetap melaksanakan pekerjaanya namun tidak menyakiti dan tidak menyinggung orang lain. Mereka masih bisa BERSIKAP RAMAH dan MEMANUSIAKAN MANUSIA.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Zurriy Lukman",
+              "uri": "https://www.google.com/maps/contrib/115569032625794657293/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIS7yFkSEotmkG873NV6yb40xLGZPQasBv3w-7n_fngprcwbw=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2024-03-28T13:06:28Z"
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1dDlhcmF3EAE",
+            "relativePublishTimeDescription": "setahun yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "lokasi deket sama sarinah, tinggal jalan dikit. untuk masuk, ksh tanda ke petugasnya, nanti akan dibukakan pintu. ada security checknya. coba perpustakaannya, ada di lt. 2. nyaman bgt untuk kerja. ada colokannya, untuk wifi lock khusus untuk ifi. banyak buku bahasa perancis, menarik untuk belajar di sini.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "lokasi deket sama sarinah, tinggal jalan dikit. untuk masuk, ksh tanda ke petugasnya, nanti akan dibukakan pintu. ada security checknya. coba perpustakaannya, ada di lt. 2. nyaman bgt untuk kerja. ada colokannya, untuk wifi lock khusus untuk ifi. banyak buku bahasa perancis, menarik untuk belajar di sini.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Riska Apriliyanti",
+              "uri": "https://www.google.com/maps/contrib/117075794698655660103/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmmfJL1NhmqDxfIar7e6IRnRDa_ojB5lya0lPGIN_YzcGjpkre=s128-c0x00000000-cc-rp-mo-ba2"
+            },
+            "publishTime": "2022-08-31T23:59:55Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXXLGCC2rD03o2OlrdSDNaquodHmTO2ZlV9xdidyip6Ey8oIkiLF16E7vBtnnyIWJfR693Q_064iBKsqWm4L6ZqheLEe5aiSMT3Kno7G13Krn1IMPR55yflzShvl2fp2Wwxm1MIMx3ptvua9j7U6WrgofNlh_keP0vsY",
+            "widthPx": 3456,
+            "heightPx": 2304,
+            "authorAttributions": [
+              {
+                "displayName": "Institut Français Indonesia",
+                "uri": "//maps.google.com/maps/contrib/105089371974282837818",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgXOF4DrronysY0RMMtvRugCPd0MbmiCcMUf-bUcIOOYmxfXpC=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXUGvT6xwZrOSN9Dc6PNUr05zT8G_GMOuTUMpRDyxDVgq2N1wFF8S1G6er7UPm0K8-AycThWkNx1DChSKe91CSGJ66IDO5zhgzlrPYrqXqFXVHpGc_LT71Y0Nl2xRI_07r9eY85-dyQ6dSnZD675InU8k0-5zchn34Np",
+            "widthPx": 1024,
+            "heightPx": 768,
+            "authorAttributions": [
+              {
+                "displayName": "Institut Français Indonesia",
+                "uri": "//maps.google.com/maps/contrib/105089371974282837818",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgXOF4DrronysY0RMMtvRugCPd0MbmiCcMUf-bUcIOOYmxfXpC=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXWo6gFQi1Hcjcb6TaZUUhgDY7ZDiT5FG0oaG1dTxgxGjgcOO7-Ak_eiVUSWz0DEcbVsdF3f32K3VS_u2PBEflp80kKh2J9Q2ryANS3gamCGJ2Edw7H7Zx5oFVkBDAk6l9HX1fZoe7c5XJxhx47_XB2B7H3cQDX34JT5",
+            "widthPx": 4608,
+            "heightPx": 3456,
+            "authorAttributions": [
+              {
+                "displayName": "Bintang Akbar Maulana",
+                "uri": "//maps.google.com/maps/contrib/114550365673209685016",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3MwV4v63HH1jxtECdScbeJtFbys-VR6Zr_gGXngy2km-6btm-9g=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXUTTm3ccvxiLbkAuSAG0jXBkHD_N1HgafjCv1Vused9OO39M1-DmCDT6XbYF0BMf3ov6a0Kdon3cPOuvwEeyB8VOfz1Xe7ga40QSMNokdHR9LBRWYpKPhm7Q3QtV-1T49SRyRIsu9Y9ikRQ4aPj0pdMeI2TvByhqha4",
+            "widthPx": 4160,
+            "heightPx": 3120,
+            "authorAttributions": [
+              {
+                "displayName": "Jhon K",
+                "uri": "//maps.google.com/maps/contrib/105316498334144288514",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKRudwrdFP3nCAQtnz6WtVNMZKFWN9CJTaRMrxu9xM_bAKJt8-=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXWVgjvCapSMqBonMUMERqjbMvk3Uf8ZPXf7aUy0W-3W3Ke5jewjbA34LLdkZYDTK0TkvyEhaokNeG-IVimNvtjwvR9SVMNEp5ShCGcGQN0NGOxZy1riWc2qcF-aLg7L5sgcy9BWeEoGcU9hbwvU21Gc_TA15OrgBOZ5",
+            "widthPx": 2052,
+            "heightPx": 1501,
+            "authorAttributions": [
+              {
+                "displayName": "LA MORALE",
+                "uri": "//maps.google.com/maps/contrib/112516828595640199796",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPTP8TnqqNctL4Wf6nRgLmaeiJ96OLOMEqvBu4dWkj1wSbLg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXUcNKQfseUJ5R877I3m7CJ5D1VFH37W2xZ6XJXQd9P-dtgmkF9sfW_Zhg6GypXwJRQzJL83BcChVJluvxwRJBmdY0cjWZzx9dySJ8JnLfNpS5emrMjtsrbx1XCpX0SuMW7js9ztKZLE7PAM1K5DNVcq38tN7kfMOf1k",
+            "widthPx": 3000,
+            "heightPx": 4000,
+            "authorAttributions": [
+              {
+                "displayName": "Sefiana",
+                "uri": "//maps.google.com/maps/contrib/118095361420374077520",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2g6IqVGzrpcEeh0F7MCIgwZjhplXaZzu99owNXvEzkaD8mOTa=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXWGUHYjE6rEdcy-DRt-5EZ57nVJNBpZX5MWplaC6tCrxUImvFFkA9ePWC6bHgNtmFHVfycLgfP7Mt4bPNQOnHB0_Sz9wN6SAOVcnQYWBeeD5JJwm3NT-bwk8V2y0IQ8TarvysCLe_OytHJTMHiISWvd-sfXKXF1UI_M",
+            "widthPx": 3024,
+            "heightPx": 4032,
+            "authorAttributions": [
+              {
+                "displayName": "Riska Apriliyanti",
+                "uri": "//maps.google.com/maps/contrib/117075794698655660103",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXmmfJL1NhmqDxfIar7e6IRnRDa_ojB5lya0lPGIN_YzcGjpkre=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXW_9wDxptsmeWknl6xjJBFARVWvLwh6m0MePWUBLeEy6d_gMcjaNOC3UKoPnPVKOX0hN6VlpaMbo1qlzAYEdBTBLhd_LGr_X66DdjNGQhtU_cCHeE2rC9M-ccUPfRS7srnLOn9iOfOtpRYf9NiqxlXaIFkwrqMwL7oZ",
+            "widthPx": 9216,
+            "heightPx": 6912,
+            "authorAttributions": [
+              {
+                "displayName": "Arkian World",
+                "uri": "//maps.google.com/maps/contrib/107164003206348705252",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX5VHvaf-aT1gy2vl2toeCwsEFxMNiBY9HTVDFr35FRxffJwqTJ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXWCPWMFJvLgsWjC7xHtvIQ6umg8W56Qfyspo1096z5L8Pg70TqI82uVvnLpokfKZbsm3zDp4buiR4La9OpX_xhAnQxIQf7UsNyHX2HnZaDXKzMECsCsWnUZMyUA8zbaFOxzHbjNMoJw1C95C8pXaITqWO0UtNc-uLw-",
+            "widthPx": 5312,
+            "heightPx": 2988,
+            "authorAttributions": [
+              {
+                "displayName": "Dewanti Resi",
+                "uri": "//maps.google.com/maps/contrib/108529820446910444696",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU8T0pbM27Uue1-ARy_wB-uHtGAY-f8LfFSGDkdZTC3nkwfVnFg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJJ8QAXEL0aS4RQuctkMioTaA/photos/AUc7tXVZowbmVPEu3bRgGePzeLFrU-Wy505j7iR_z7MXox47n4o3RTIjC0XrI_o1aexcYhosWewPkFFWqhUsD37hyHjqOtleQjq1afmtm3GJCmCziZitFbIXJiywAMF03N4MhbJHEzliQevrgJZRGDCZhsB337GbGcg-NFpS",
+            "widthPx": 4608,
+            "heightPx": 3456,
+            "authorAttributions": [
+              {
+                "displayName": "Arif Rahman",
+                "uri": "//maps.google.com/maps/contrib/106408489662821089556",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUxYkgMdktCir5_yx6Fmw4EyypjarKvJf8x0DGF-7zZ53r2qCtk=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Jl. Gereja Theresia No.47 7 4 7, RT.7/RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+        "location": {
+          "latitude": -6.1910493,
+          "longitude": 106.8283796
+        },
+        "displayName": {
+          "text": "Balai Budaya",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwczVDQkVREAE",
+            "relativePublishTimeDescription": "10 bulan lalu",
+            "rating": 5,
+            "text": {
+              "text": "Rasanya bahagia bisa masuk ke Balai Budaya Jakarta yang bersejarah, setelah bertahun-tahun lamanya tidak memiliki pameran karya seni yang gebyar...\n\nSeharusnya pemerintah daerah memperbaiki bangunan ini menjadi lebih baik dengan renovasi, penambahan fasilitas struktur, interior dan lampu juga pendingin ruangan. Sedih rasanya melihat gedung saksi sejarah ini terabaikan begitu saja...\n\nPameran Seni Rupa Art Donk memulai jejak langkah sederhana setelah pandemi Covid 19 untuk membuat pameran di sini. Alhamdulillah.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Rasanya bahagia bisa masuk ke Balai Budaya Jakarta yang bersejarah, setelah bertahun-tahun lamanya tidak memiliki pameran karya seni yang gebyar...\n\nSeharusnya pemerintah daerah memperbaiki bangunan ini menjadi lebih baik dengan renovasi, penambahan fasilitas struktur, interior dan lampu juga pendingin ruangan. Sedih rasanya melihat gedung saksi sejarah ini terabaikan begitu saja...\n\nPameran Seni Rupa Art Donk memulai jejak langkah sederhana setelah pandemi Covid 19 untuk membuat pameran di sini. Alhamdulillah.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Mariza ZA",
+              "uri": "https://www.google.com/maps/contrib/104479195667836378918/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIih6r2dF5IGT06qiuViFBhZ31mSR2s2ZCf_kc5BY175GWsJ8G8A=s128-c0x00000000-cc-rp-mo-ba6"
+            },
+            "publishTime": "2023-08-10T00:38:27Z"
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSbTR5REpREAE",
+            "relativePublishTimeDescription": "setahun yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "ke sini waktu ada pameran lukisan yg bertemakan Harkat Perempuan 👍tempatnya masih terasa vintage, pertahankan dan jaga kelestariannya. mudah2 an lebih sering gelar pameran seni di sini",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "ke sini waktu ada pameran lukisan yg bertemakan Harkat Perempuan 👍tempatnya masih terasa vintage, pertahankan dan jaga kelestariannya. mudah2 an lebih sering gelar pameran seni di sini",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "sage",
+              "uri": "https://www.google.com/maps/contrib/115894547163845621664/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHPDyzq_JXDoioCgupTyPaCN5JXk-R_fmXukRBWizttTHV_5s=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2023-04-11T08:45:20Z"
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/reviews/ChdDSUhNMG9nS0VJQ0FnSURodDRENXF3RRAB",
+            "relativePublishTimeDescription": "setahun yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "Buat acara yang menggunakan balai budaya keren, bisa melihat pamera sekaligus bertemu dengan para pelukis dari Pameran Perempuan Indonesia, Harkat Perempuan Indonesia. Hanya saja untuk gedungnya sendiri kurang nyaman karena panas tidak ada sirkulasi udara ataupun pendingin ruangan.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Buat acara yang menggunakan balai budaya keren, bisa melihat pamera sekaligus bertemu dengan para pelukis dari Pameran Perempuan Indonesia, Harkat Perempuan Indonesia. Hanya saja untuk gedungnya sendiri kurang nyaman karena panas tidak ada sirkulasi udara ataupun pendingin ruangan.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Rachmat Wardana",
+              "uri": "https://www.google.com/maps/contrib/112563382842243097901/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVigKWYeBlGd6wzlreJLpEFo6UnB0JKjOxAbJoePB1jcw_L7OPm=s128-c0x00000000-cc-rp-mo-ba4"
+            },
+            "publishTime": "2023-03-20T06:52:21Z"
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/reviews/ChdDSUhNMG9nS0VJQ0FnSURBeHE3UGtBRRAB",
+            "relativePublishTimeDescription": "setahun yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "Good vibes! Bangunan yang kaya akan nilai historis. Terutama sejarah tentang seni. Menjadi rumah baru bagi para seniman setelah TIM berubah menjadi modern dan tak sehangat dulu bagi para pelaku dan pekerja seni. Banyak pameran lukisan yang telah terselenggara di sini",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Good vibes! Bangunan yang kaya akan nilai historis. Terutama sejarah tentang seni. Menjadi rumah baru bagi para seniman setelah TIM berubah menjadi modern dan tak sehangat dulu bagi para pelaku dan pekerja seni. Banyak pameran lukisan yang telah terselenggara di sini",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Aria Sankhyaadi",
+              "uri": "https://www.google.com/maps/contrib/105515998975977572410/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXtFuAJe4VtXhhuk3PnTK8jxpFnRlkoxm9aCtgqKMoLllxviSa=s128-c0x00000000-cc-rp-mo-ba5"
+            },
+            "publishTime": "2022-07-18T11:37:30Z"
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaGZmTTZBRRAB",
+            "relativePublishTimeDescription": "2 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Tempatnya para suhu dan seniman legendaris menampilkan karyanya. Banyak sejarah yang tercatat di dalamnya. Bahkan Bung Karno pernah mengunjungi tempat ini. Semoga semakin jaya, bersinar, dan terus mengisi ruang seni di negeri tercinta ini.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Tempatnya para suhu dan seniman legendaris menampilkan karyanya. Banyak sejarah yang tercatat di dalamnya. Bahkan Bung Karno pernah mengunjungi tempat ini. Semoga semakin jaya, bersinar, dan terus mengisi ruang seni di negeri tercinta ini.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Atunk F. Karyadi",
+              "uri": "https://www.google.com/maps/contrib/102679419113916450097/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMIg8Rdf2Ab7WXPwKidieit9HvBeniBn0ff1JQD0Pm7eJ38War=s128-c0x00000000-cc-rp-mo-ba5"
+            },
+            "publishTime": "2022-05-19T21:22:02Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXUsQe-O4_dhjFcuY6GHvCrzJAfoXg6fkycFB1e-yF8DvGpA55gTfPxaemmwelSQRrTW2ZFopDNhCscgq6dp_xyDbJn5YVMvRcDxY7jQNpVD4h9iqLAhTy2S1aT_SV5izMoQSWKmDYtpR4h0eUY7wFTfa54kqOKiX8Fs",
+            "widthPx": 4032,
+            "heightPx": 1960,
+            "authorAttributions": [
+              {
+                "displayName": "Atunk F. Karyadi",
+                "uri": "//maps.google.com/maps/contrib/102679419113916450097",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMIg8Rdf2Ab7WXPwKidieit9HvBeniBn0ff1JQD0Pm7eJ38War=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXVcXY6PUE0R4mGKKtetJMqfGamzvhIskXZ_u66RYehiRbipniJ1OM_6olxAPNbY5iEE1zomDeZJw7C18p0mtBd7NWbtUhEVX5JnznWoAdI8fFvgHiKtMz3vw_inPvR7-2tgMdf88pAII3WtFvKtjHD1NRJDCjw5uVgP",
+            "widthPx": 2160,
+            "heightPx": 4560,
+            "authorAttributions": [
+              {
+                "displayName": "Yulelasari",
+                "uri": "//maps.google.com/maps/contrib/111330220690723794222",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU1lrQG4BbyEAVy7-mdrix6ZWQFQalTnQTOgnvb9ALT87WnxgLQdA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXWr3YU32dO68w_I-UAVaPpUEtm8rV_hAgw8Vk87AgyMkxbAWrcl7i3dsXmzUpttM4dGIUUTFN_4ruXndH7YXctQl27yEolUGrFv6PKhR4NZnYnfXwT49v2wbj4oiCwPwiyoWYEUvIvIoWtpy_CgNr7Y7ZMksRHYAEwr",
+            "widthPx": 3539,
+            "heightPx": 2654,
+            "authorAttributions": [
+              {
+                "displayName": "a husen (ahusen)",
+                "uri": "//maps.google.com/maps/contrib/103253571590544543036",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL0jrs_P4n9l1sBHCuftkRV1vAieZmfNmwsWceLueyCdTnofjQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXWa6H0fJJD_pIVSKTRo_hdkS0TpTf4ryQf8bBWG0OsdUEVjyGAttybP8rZWd9DLXLbIaMI7K7p0RoFrAQlwM1LO6AkuBZRjfFX54H4n_6tLL8BKwyIsybHg-TW02QEMZba6xtWnLSnVd9zGVRbZfN5W8N9-pfWpHqCQ",
+            "widthPx": 4000,
+            "heightPx": 3000,
+            "authorAttributions": [
+              {
+                "displayName": "Popov",
+                "uri": "//maps.google.com/maps/contrib/118124515665653634286",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVYKb833YPerVbNi1Ii2RVCdfks9Pw7_GuVJ0pA-Rcfy8G3UlPj=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXV0PDq44Ls23uCdZ8yEGrUsBIoWGcc9qUMv-lazsP7zhIrwo8bTg3NJ1Sg3Fusub02eXKTcm1W-B_go7_DW6gmRDzVfXZopGkQYjEDjNvFvy3U7ge1LoblQVC7R5u6j3RDWiRcqysJd9rt0EDyAaOR2uJRMTsnN5ICD",
+            "widthPx": 4000,
+            "heightPx": 3000,
+            "authorAttributions": [
+              {
+                "displayName": "Mariza ZA",
+                "uri": "//maps.google.com/maps/contrib/104479195667836378918",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIih6r2dF5IGT06qiuViFBhZ31mSR2s2ZCf_kc5BY175GWsJ8G8A=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXXsLsGT2ChMAao1pOamBU6I35GrNr2ps2ixPzAEAgez_N1J5Ragh60LBZ0cD54Q3N_USv7kzaN2Z649uRB3uA_Q6Kg-hiCwbwcK8TQjfA1oQ0-fC_ZQyNdq1j9FHP70-SfV9UEZ1WrXx6yMbhJbs-m-c8qs5kCX9OJE",
+            "widthPx": 636,
+            "heightPx": 830,
+            "authorAttributions": [
+              {
+                "displayName": "CAHAYA KENCANA Rent Car",
+                "uri": "//maps.google.com/maps/contrib/114899903642448964015",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVNz9-CeKv1N2yyTwvoYkndYzDhNYFrA-TtkeTG68wDawzX9gxd=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXUbDY55gjOSSjVHcy_NAcAJbAFzkqMXDVUcpaT-54D5pNGGLzGikGjXFSWh7cv9tltvh16zy891nM_HKOw0OgddGFYbKt2Oc1BrPRfyWAbll_T9asWhR_0F2n-9guew4kvKcWkXOe-uR0Qui9UzTYrpqlydQUibPZ7w",
+            "widthPx": 4128,
+            "heightPx": 2322,
+            "authorAttributions": [
+              {
+                "displayName": "Diana Dee Mohy",
+                "uri": "//maps.google.com/maps/contrib/110395154400617972821",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbz5iwEsI1sQ17twT8ExP1AFoP6VkRhKcII0zu681Y7ZwePNbvew=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXXqp6MW0pf5Xc_JplCEOHO1zFAJQqpD6M7NobXNAjNmuV9jUF21qmtlmI3u4aLtuikLpuzke1X-R-U2hq3qLd_AP7F03V1dc9RPWyT4-Dhi5QhB_7AjBOuwpy-tylwhwMgXgwAfpyGwAc4ZWoefrgJUBW6PoitjKVaZ",
+            "widthPx": 2780,
+            "heightPx": 2085,
+            "authorAttributions": [
+              {
+                "displayName": "Mariza ZA",
+                "uri": "//maps.google.com/maps/contrib/104479195667836378918",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIih6r2dF5IGT06qiuViFBhZ31mSR2s2ZCf_kc5BY175GWsJ8G8A=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXU45H7XbCkD7IHLfjLwXn5Azsltx0nF0zZiJHnEYUn3tXjQC4XgVLI8aQpRXbFQTfsadqWixfW8Ih1czxt70i2KKmqdSe9IUbDFliYO5jXm5BzR8MVjXwrESXOJhVoszDUChuYBgdy63u0UdPaU621gxKfkxxPVMlsx",
+            "widthPx": 3264,
+            "heightPx": 1836,
+            "authorAttributions": [
+              {
+                "displayName": "Fadlie romeo",
+                "uri": "//maps.google.com/maps/contrib/111650305618294774662",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXZoS1LVCnhgsdl6V5yl8oEnG9etG2nMXxZ7iuOpHqZPd0NZyd_Rw=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJt3U5vST0aS4RkGNwCEeIFDc/photos/AUc7tXUIhHwmAURqHz95SqHsN6IU1isEiAl5TeimMfNdDPFbExk467arSpd_qGe_sGalWzaU8zm4xwiqzDuTN7Waze3AsTfpsLOvai_JQpeL3njVr-nchofJtFWHcX8Y7oy3wSMBiGdjEygjnoBoFd5u1OftDAgl1rcghOAO",
+            "widthPx": 4160,
+            "heightPx": 2352,
+            "authorAttributions": [
+              {
+                "displayName": "Aola Romadhona",
+                "uri": "//maps.google.com/maps/contrib/117028805883767489923",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWGQ6q0k8kBXaVgAeSYTjQTU7BB5898D56qdi0o2oNM7dGc573h=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Jl. Sumenep No.11, RT.11/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+        "location": {
+          "latitude": -6.2000690999999994,
+          "longitude": 106.8257895
+        },
+        "displayName": {
+          "text": "Jaya Aquarium",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/reviews/ChZDSUhNMG9nS0VJQ0FnSURwdDdDV2RBEAE",
+            "relativePublishTimeDescription": "9 bulan lalu",
+            "rating": 5,
+            "text": {
+              "text": "Belanja di sini harga relatif murah dan pelayanan nya juga ramah dan asik dan insya Allah sama² berkah nanti nya, pokok nya kalau berkunjung ke pasar ikan hias sumenep menteng jakpus jangan lupa ya mampir ya ke toko FIRDA JAYA AQUARIUM 154 di sana menjual beraneka ragam aquarium dgn berbagai pilihan model dan ukuran juga tersedia accesories serta perlengkapan aquarium dan kolam seperti mesin filter lampu dll.\nDan disana juga menjual pakan untuk berbagai jenis ikan hias tawar maupun laut.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Belanja di sini harga relatif murah dan pelayanan nya juga ramah dan asik dan insya Allah sama² berkah nanti nya, pokok nya kalau berkunjung ke pasar ikan hias sumenep menteng jakpus jangan lupa ya mampir ya ke toko FIRDA JAYA AQUARIUM 154 di sana menjual beraneka ragam aquarium dgn berbagai pilihan model dan ukuran juga tersedia accesories serta perlengkapan aquarium dan kolam seperti mesin filter lampu dll.\nDan disana juga menjual pakan untuk berbagai jenis ikan hias tawar maupun laut.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Budiman_89",
+              "uri": "https://www.google.com/maps/contrib/106632345484553454511/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQS2M0Odr8eTWsJ85XA6oGrzKxdLAbhMgAbQgwNhh2Xtrt4c4UXQ=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2023-08-31T04:03:41Z"
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDdE9LTnZ3RRAB",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "ikan lautnya mantap, terumbu karangnya juga seru, berasa di pulau tidung kalau lg beli ikan dan terumbu disana.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "ikan lautnya mantap, terumbu karangnya juga seru, berasa di pulau tidung kalau lg beli ikan dan terumbu disana.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Yan Pratama",
+              "uri": "https://www.google.com/maps/contrib/116952427919687690259/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpM5j0U8XrH_3_embqu1lS8qy5KloajUNQAB-sFLzj47qyPgmj=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2020-08-13T10:00:14Z"
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4eDZLaXFnRRAB",
+            "relativePublishTimeDescription": "setahun yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "Aquarium kualitas nasional.. top bgt 👍👍... gak akan kecewa.. ada harga ada kualitas",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Aquarium kualitas nasional.. top bgt 👍👍... gak akan kecewa.. ada harga ada kualitas",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Wira Karta",
+              "uri": "https://www.google.com/maps/contrib/109026304284029581695/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIHW5484mUpTxeVfx2wqMOI3ywTPDwdbWrwdwHLwdJq0zjLkQ=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2023-05-27T14:35:17Z"
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDdE5LUktnEAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "mantep bngt ,,ikannya bagus2 dan biota lautnya juga banyak pilihannya,,puas bngt belanja dsini",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "mantep bngt ,,ikannya bagus2 dan biota lautnya juga banyak pilihannya,,puas bngt belanja dsini",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Alesha Khaliqa Pratama",
+              "uri": "https://www.google.com/maps/contrib/109792821006138564699/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_dHQoIZNVv0cHAZo9t7LHIFx-vDOQJp9loAH0UmMA6KKsFvxP=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2020-08-13T10:06:41Z"
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDdE1HMVBnEAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Tempat strategis.... Segala jenis kebutuhan aquarium ada... Harga terjangkau...",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Tempat strategis.... Segala jenis kebutuhan aquarium ada... Harga terjangkau...",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Kacamata",
+              "uri": "https://www.google.com/maps/contrib/102881806183788453966/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU10o5g-9US_80blVkxxb6pKJfMjI6rX0NOHSw1zRt0Xiq6dBCG=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2020-08-13T11:36:10Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXWCn_3za5OyLTS2tqSObn6lRXPv--lxq7ry-jvd-mSxK3fV8pf69JiZdgcKE_qpp8aS_rMeXVxqC8hutiO5uzHi5P9ZFfXPCFfaaNLqFh8NBrC29fFYvUDHAstBI4d4Ge0anmDKtKnKRZX24ARPXUazXwIkRJH8HnWj",
+            "widthPx": 1280,
+            "heightPx": 720,
+            "authorAttributions": [
+              {
+                "displayName": "Jaya Aquarium",
+                "uri": "//maps.google.com/maps/contrib/113367144661859970422",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWonfxccmkuUg0uP2yUby48yePFbKdAfhb2gbsu8vu2GmaNjnY=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXXm8S0hffn_iR2r-dbiJblbpn7fFTMvgY7O-bZAGX30EASzU5RRsrNnqDg7HR9e1VTvUXHq_5332xRvnssfcK7RLf3A-0niot31uOZc2P6LS2KBi5Q63q0GsQnN8DRCLi4t-KjAtwZUjuy4R3vlCMcvIAFUr-FtAcCO",
+            "widthPx": 1280,
+            "heightPx": 720,
+            "authorAttributions": [
+              {
+                "displayName": "mylove 5",
+                "uri": "//maps.google.com/maps/contrib/104302198765630063479",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUVG7EZ6q-yYe3In4h7-qYFz1itgQaaF0P9eGi4NoZ6Z4C6wQYK=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXXPrber1z9SzapWMWSEHQcnO7iM5DLOsA99Ec9I3MbjVmZ-YBzYb5AmBq1bi0fUrDwXYtYn17PgLkIgFjp9N7slF-Qjll0B8flwsvOlmBA_GsHY3_QcDOdrvUuuWGUuZQlbr2L8DRbfTQ0lFJAsp_x4pORgGcgKIN7p",
+            "widthPx": 3060,
+            "heightPx": 4080,
+            "authorAttributions": [
+              {
+                "displayName": "Su Tisna",
+                "uri": "//maps.google.com/maps/contrib/109785393006639050770",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJs3gzxz2EAJ_vZbOn_pFPOLhRvYwLf6BkZeX7Dyjr7Nf0BTA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXVj9JyrAF9nlYHuSBOSRD-VPmRX4gJFDznds9Fc5F21ynkeaef4yWN0hi5-_e52kLRzMo0m9WFbqjOA6GrTxsHD4s0HSYhXX0_ORcTbMT_cNiyNRhdAsp4Js97kJ72-KwFpAahHrlaYiwAu3y_qV0jpZfZ1VeU72bcr",
+            "widthPx": 4080,
+            "heightPx": 3060,
+            "authorAttributions": [
+              {
+                "displayName": "Su Tisna",
+                "uri": "//maps.google.com/maps/contrib/109785393006639050770",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJs3gzxz2EAJ_vZbOn_pFPOLhRvYwLf6BkZeX7Dyjr7Nf0BTA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXXCRl_0NHikNALzDz-1PXN73NyB_HQ31WENu-ZNdxHWCM-IbWc5lDRyMog7quaZEBGyUDhwWMLBrlPtA6le4XERAve1OJ-7-gdUSGO8lZPXjHQDsAovOpH502kYVIzJ5Drub-KPPWPv06bLBsH3V-B7XwKC5l4JL8vL",
+            "widthPx": 1920,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Jaya Aquarium",
+                "uri": "//maps.google.com/maps/contrib/112776153711423604946",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWISEZjPw5j1Y1nZhwZ18VhWVUnIWA8Z2PJE9bS0O9yGjsR-0M=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXV8db1hErbtf3N4LM638dPoi8Mp4zIcOl1HP2I7E7jSZecIvZUPcp9aU5wbATiNeNIALtwoZb_ScevN5Idyw2upScxGIZ8_vHFmekT2tBgzpRsy_Ka1QQKCYCiDhOSUb-annJPQnNQRE38AQ2qqouN9EwXysodZmrum",
+            "widthPx": 3060,
+            "heightPx": 4080,
+            "authorAttributions": [
+              {
+                "displayName": "Su Tisna",
+                "uri": "//maps.google.com/maps/contrib/109785393006639050770",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJs3gzxz2EAJ_vZbOn_pFPOLhRvYwLf6BkZeX7Dyjr7Nf0BTA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXW4Az8UjVRXLbWwPOVNgpqLC4jBe6ZrVPpGhluI6kAwJdjwSSM1SIdAtIX_Y5vQWMFpnfyJfF7k6F4ewNVZgbBR_NKs90yKOFB47_YdqNerrdsuf_pFx1VhetKPKVuwlnKTsb98qGrVWG1WB3ndWs_mI9nl4KvJoY_c",
+            "widthPx": 4080,
+            "heightPx": 3060,
+            "authorAttributions": [
+              {
+                "displayName": "Su Tisna",
+                "uri": "//maps.google.com/maps/contrib/109785393006639050770",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJs3gzxz2EAJ_vZbOn_pFPOLhRvYwLf6BkZeX7Dyjr7Nf0BTA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXVHmUCKejCM8HLGmRlBnTV4b46brbjJwj4zHn1i4exxrFCoGLbJ56VDC4Xu8ZO0hepiP7FQGJNJOQ4fVXNwz19aSRjWA97rHR4EwxkP8nJiPlRB1Jk-9wT8JEG2sbHOr_-Z2QG1ogaMAnJMseJeN7tt5pTMEKA14CWg",
+            "widthPx": 3060,
+            "heightPx": 4080,
+            "authorAttributions": [
+              {
+                "displayName": "Su Tisna",
+                "uri": "//maps.google.com/maps/contrib/109785393006639050770",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJs3gzxz2EAJ_vZbOn_pFPOLhRvYwLf6BkZeX7Dyjr7Nf0BTA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXVxUtggXokiI4E5oBJhcLHsgytinPz_XGOGb5uUIwiUjdEp_Swd1-ab9AEm-fhxuqJIR7tiRGL8TBz4iUbq03WN5EADYmj3S5FvSpdiLwyFSyWsgrHigTRZe5JVIw6kvCnrzCmIcR_AaCyayG-qDEn4aTSLxpYDyYkk",
+            "widthPx": 800,
+            "heightPx": 600,
+            "authorAttributions": [
+              {
+                "displayName": "mylove 5",
+                "uri": "//maps.google.com/maps/contrib/104302198765630063479",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUVG7EZ6q-yYe3In4h7-qYFz1itgQaaF0P9eGi4NoZ6Z4C6wQYK=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJB1fsERn0aS4Rj9TNehXxiQY/photos/AUc7tXWRVB7IOJBgDWovJKPCyBe_yUDXzTE643D9w6kKtsMRGf11hBv5RwOSHhcO-vuL7egcregKuE9lWvibhEUUchM9Bovh_ImUZ79xDvyoGLInJE-jwNwzqrWQXsOGuxlyyLsIT4jdxxVQq7HMS7N4bgvZ55LcMaM1PzoF",
+            "widthPx": 1200,
+            "heightPx": 1600,
+            "authorAttributions": [
+              {
+                "displayName": "mylove 5",
+                "uri": "//maps.google.com/maps/contrib/104302198765630063479",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUVG7EZ6q-yYe3In4h7-qYFz1itgQaaF0P9eGi4NoZ6Z4C6wQYK=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "RT.11/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+        "location": {
+          "latitude": -6.2014795,
+          "longitude": 106.8269717
+        },
+        "displayName": {
+          "text": "SYALWA AQUARIUM.",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJ4TcwcCv1aS4RKuMSoxwfF9g/reviews/ChdDSUhNMG9nS0VJQ0FnSURVak5YWG53RRAB",
+            "relativePublishTimeDescription": "4 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Tempat ya sangat bagus",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Tempat ya sangat bagus",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "rachel channel",
+              "uri": "https://www.google.com/maps/contrib/107603808347663714276/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXp72A7CHqJADvNDthrsAYhWCJQLvQdxFFT7vgt7Sbm21pZZo=s128-c0x00000000-cc-rp-mo-ba2"
+            },
+            "publishTime": "2019-08-16T04:50:14Z"
+          },
+          {
+            "name": "places/ChIJ4TcwcCv1aS4RKuMSoxwfF9g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNTMHF6a2JnEAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Manfaat nii",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Manfaat nii",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "brd dwy",
+              "uri": "https://www.google.com/maps/contrib/107207919654577728163/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_C_RKb_B3xmnXUlXPs_yP7l1xSvmUoIDYLDfmWPXvYj2SUWye=s128-c0x00000000-cc-rp-mo-ba3"
+            },
+            "publishTime": "2020-12-15T22:07:09Z"
+          },
+          {
+            "name": "places/ChIJ4TcwcCv1aS4RKuMSoxwfF9g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjNl96bDJ3RRAB",
+            "relativePublishTimeDescription": "4 tahun lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Halimatu Ssadiah",
+              "uri": "https://www.google.com/maps/contrib/102655679722203722714/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJP0Ma_0HUZFxWeJYeX_TsnDm6b3q9G8zHm1bDagBJMGO5hQ=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2020-04-11T14:25:38Z"
+          },
+          {
+            "name": "places/ChIJ4TcwcCv1aS4RKuMSoxwfF9g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjazd2M21nRRAB",
+            "relativePublishTimeDescription": "4 tahun lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Edhy Kudil",
+              "uri": "https://www.google.com/maps/contrib/112893353293719351504/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKi4DFDNAWMbLfTUe-Fy-O5ORVCy0SZ-fkl_y_neT5ctsOBGw=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2020-04-02T05:56:14Z"
+          },
+          {
+            "name": "places/ChIJ4TcwcCv1aS4RKuMSoxwfF9g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjazdMeVF3EAE",
+            "relativePublishTimeDescription": "4 tahun lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Adinda Rachel",
+              "uri": "https://www.google.com/maps/contrib/107580069671321164330/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2QmKkI5P6u6O5g1o9SkL4x_6FHUdHY1qUzisFkh0-GlLX2w=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2020-04-01T10:01:01Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJ4TcwcCv1aS4RKuMSoxwfF9g/photos/AUc7tXW-KjVkImZRzoGjQyZ13Hin9p6vDn01krvKpSnupMaBS0KZIUTofCPQMkiDrJclCvJ9rk7VsZz0t3GOqUFu0kAG21qLbe__ADAv9oftGyw762A_L29jIOxsL0OaHKqHIDnI1_4OSYodW2rEzaR0_CLPdVKugf9sf2rJ",
+            "widthPx": 960,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Aquarium",
+                "uri": "//maps.google.com/maps/contrib/101448158500266721525",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLCjndfnUr10K8XF0wZPq6RUEhLvNQADAGW6wkJAVIiR_b9Mw=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ4TcwcCv1aS4RKuMSoxwfF9g/photos/AUc7tXXD7D4_9B__pMidNYza8QnfduMmCkwiBejqEra4vuoIbiFzbypUX8OLUGTde8jWFGPz5DgoamhYPhAJvKmfVvO1c7fBAZC-6o6zwFmM2MPxZNU0MZ_fk5M1EuNGb-IDLHlx7e4aAnN6g-Wun180XlWqEgGfgoFJY8Jc",
+            "widthPx": 2448,
+            "heightPx": 3264,
+            "authorAttributions": [
+              {
+                "displayName": "rachel channel",
+                "uri": "//maps.google.com/maps/contrib/107603808347663714276",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXXp72A7CHqJADvNDthrsAYhWCJQLvQdxFFT7vgt7Sbm21pZZo=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Jl. Sumenep No.10, RT.11/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+        "location": {
+          "latitude": -6.2013362999999995,
+          "longitude": 106.8267626
+        },
+        "displayName": {
+          "text": "Aquascaper",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/reviews/ChZDSUhNMG9nS0VJQ0FnSURJczRpOEFREAE",
+            "relativePublishTimeDescription": "5 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Kumpulan penjual ikan hias daerah taman lawang menteng. Range harga bervariasi. Menjual alat alat aquarium, aquascaping, ikan hias dan binatang air lain nya. Sampai aquarium yang sudah selesai di aquascaping. Bagus untuk yang senang memelihara ikan.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Kumpulan penjual ikan hias daerah taman lawang menteng. Range harga bervariasi. Menjual alat alat aquarium, aquascaping, ikan hias dan binatang air lain nya. Sampai aquarium yang sudah selesai di aquascaping. Bagus untuk yang senang memelihara ikan.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Rachel Margaretha",
+              "uri": "https://www.google.com/maps/contrib/117172234332034282721/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKpDEDbalbY4myaay910p8lc1PVsYgcPkYN9LTr95rCnTZkv2f=s128-c0x00000000-cc-rp-mo-ba3"
+            },
+            "publishTime": "2019-01-20T13:03:55Z"
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBNkxYa1pnEAE",
+            "relativePublishTimeDescription": "6 tahun lalu",
+            "rating": 4,
+            "text": {
+              "text": "Tempat nya deket taman lawang yang Legent itu (lol). Space parkir sepanjang jalan dekat taman. Yang hobi sama ikan hias pastu tahu tempat ini. Ada beragam ikan hias yang di jual di sinih, tapi rata-rata ikan hias kecil air laut dan air tawar. Banyak juga yang menjual peralatan nya. Lengkap sih. Tipsnya liat-liat semua dulu sebelum beli, bandingin harga, jangan ragu buat nawar. Kunjungan kemarin niatnya hanya sekedar jalan-jalan. Tapi, pada akhirnya malah tertarik untuk membuat Aquascape sendiri...haha untuk pemula beli saja kolam yg kecil 18 Liter atau 20 Liter. Beli beberapa ikan hias kecil. Filter air. Lampu. CO2. Soil atau pasir. Hiasan lain. Kurang lebih 1jt an. Tempatnya sendiri memanjang seperti gang senggol. Jadi hati hati bawa barang yang. Berkunjung untuk sekedar liat-liat juga oke. Overall, lumayan lah untuk jalan jalan singkat.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Tempat nya deket taman lawang yang Legent itu (lol). Space parkir sepanjang jalan dekat taman. Yang hobi sama ikan hias pastu tahu tempat ini. Ada beragam ikan hias yang di jual di sinih, tapi rata-rata ikan hias kecil air laut dan air tawar. Banyak juga yang menjual peralatan nya. Lengkap sih. Tipsnya liat-liat semua dulu sebelum beli, bandingin harga, jangan ragu buat nawar. Kunjungan kemarin niatnya hanya sekedar jalan-jalan. Tapi, pada akhirnya malah tertarik untuk membuat Aquascape sendiri...haha untuk pemula beli saja kolam yg kecil 18 Liter atau 20 Liter. Beli beberapa ikan hias kecil. Filter air. Lampu. CO2. Soil atau pasir. Hiasan lain. Kurang lebih 1jt an. Tempatnya sendiri memanjang seperti gang senggol. Jadi hati hati bawa barang yang. Berkunjung untuk sekedar liat-liat juga oke. Overall, lumayan lah untuk jalan jalan singkat.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Alfian La Ode",
+              "uri": "https://www.google.com/maps/contrib/116974359155840536853/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHjx5Tqfj6hCJ970kFGTYe0fKfIgug7AZjkJO7JJGr4u1vD9vpdw=s128-c0x00000000-cc-rp-mo-ba4"
+            },
+            "publishTime": "2018-05-10T00:59:14Z"
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvMWJLWGdRRRAB",
+            "relativePublishTimeDescription": "5 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Saya datang ketempat ini pada pukul 19:00 kurang lebih tepatnya, hehe. ternyata masih ada sebagian yang buka, mungkin tidak terlalu ramai diwaktu siang hari. Dan penjualnya pun ramah-ramah, baik, dan tidak tersinggung jika hanya tanya-tanya saja.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Saya datang ketempat ini pada pukul 19:00 kurang lebih tepatnya, hehe. ternyata masih ada sebagian yang buka, mungkin tidak terlalu ramai diwaktu siang hari. Dan penjualnya pun ramah-ramah, baik, dan tidak tersinggung jika hanya tanya-tanya saja.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Kamar 404",
+              "uri": "https://www.google.com/maps/contrib/101361502904048901546/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUsaYO8cHfHaD5ytQYSEbpZpYG9tOaFRB4GnqU_EROP-EV4dVL=s128-c0x00000000-cc-rp-mo-ba3"
+            },
+            "publishTime": "2019-02-21T13:29:07Z"
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBOXRyRjh3RRAB",
+            "relativePublishTimeDescription": "5 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Banyak ikanya kalau bisa ditawarr ya harga nya standar lah..ni salah satu hasil dari pasar ini hahahaha",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Banyak ikanya kalau bisa ditawarr ya harga nya standar lah..ni salah satu hasil dari pasar ini hahahaha",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Van munandar",
+              "uri": "https://www.google.com/maps/contrib/108907918685097938578/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJ5Am7VnDToIOw1qGpRsfYtOrZPFBlLAx2kI-Qe3BvuRTTkRSG=s128-c0x00000000-cc-rp-mo-ba3"
+            },
+            "publishTime": "2018-07-31T06:38:47Z"
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/reviews/ChdDSUhNMG9nS0VJQ0FnSURVb29DSS1RRRAB",
+            "relativePublishTimeDescription": "4 tahun lalu",
+            "rating": 4,
+            "text": {
+              "text": "Banyak pilihan aquascape, ikan, makanan ikan dan lain2 lengkap pokoknya.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Banyak pilihan aquascape, ikan, makanan ikan dan lain2 lengkap pokoknya.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Siroj Ahmad",
+              "uri": "https://www.google.com/maps/contrib/106365498758876416641/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8RkrFSAkXGaYu9G_ehYn56vuuAEWCzn1NZoq1tSIG8bSFD4vB=s128-c0x00000000-cc-rp-mo-ba5"
+            },
+            "publishTime": "2019-08-18T06:44:02Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXUyWeMmqc2fx3GqVhZldx4_MmQ9MivSWwypVus155ZVE-httjSVniPtKx3y0vxL5urvQwhkKIYgkbgipDVEUOBFtm0JsZxDWvKAQtEsV0EuD_5jlWoqt7y_5YDlSFYND4DQg-e3y6YWG-w50YTqP-8tJy4BJzqHO0Li",
+            "widthPx": 4608,
+            "heightPx": 2304,
+            "authorAttributions": [
+              {
+                "displayName": "Rizky Permana Putra",
+                "uri": "//maps.google.com/maps/contrib/116750665420870296313",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsSym3oVdsY_W-8XtJWOBe6n09YSOdWNec5opl8vo5X9lql7o=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXXu6UfhI3gvkAy95aq-4ngYzOMTX86tm8xnraPOoKrCBBhWDrPHbuIe_8j7K4lhr5bhqbiDvb828qB-SpO-yRNmNUZJOsiCU4Y0JmhTxmBD5za62JS0osXyVNQcXyo8867N9FwNqLIc_ftt37w3nh2cNdhBzvCpxMkr",
+            "widthPx": 3264,
+            "heightPx": 2448,
+            "authorAttributions": [
+              {
+                "displayName": "Muhammad Choirul Affandi",
+                "uri": "//maps.google.com/maps/contrib/109777814349672280904",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVxIqYg5gD_q3NuaMwvScrOS0pOsu9aUUpAGU6eBu-QcIYfNw1Q6Q=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXVQWOs8jp6e9qcfPzBQPjIV4s_tz-IxRrvo_9ggrFATsW0gZsaOfo5uCZXeh8FClaqNg8uvi2XEpoGl9rBATRdx4NomuTL3VoMIzS-4IDkYfNWqeyV-Fpdi8frelfKnD_pF6Du8-eDQEymEOVL9xcxkW8zjnYCzNdFL",
+            "widthPx": 4608,
+            "heightPx": 2304,
+            "authorAttributions": [
+              {
+                "displayName": "Rizky Permana Putra",
+                "uri": "//maps.google.com/maps/contrib/116750665420870296313",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsSym3oVdsY_W-8XtJWOBe6n09YSOdWNec5opl8vo5X9lql7o=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXW4RzBfxIz0gvuQB9thxWmCEjjhrYeni48mjIFqboJNllbFZyDWpWFee3nVHj2UEgupubzSd3XIADqFyFtB6xp9J491VBbwtpta2J0viH5ebJh-QCjONz46FrPEmv54i_SP5zQf3vhtxUOAF6UrH_rV2THhAy0Ix1iW",
+            "widthPx": 4608,
+            "heightPx": 3456,
+            "authorAttributions": [
+              {
+                "displayName": "Anggatra Herucakra Aji",
+                "uri": "//maps.google.com/maps/contrib/115240678727371220925",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWDI-9uRWyLoRvN-L0msMUCo-M1ldVn2stQA4XDYUcYgf85YwB7=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXU4QEp6XX5dRZdOXMUturCpyRO2mVFkPa97BvWvB1MVGeL5t07GvuljQGl5_CuzUdAJiHmDHnhB50bn_GptpDfwe8itkJd7koGY28eSxCzqY9AQUpaqS8p4smUM1pxUYy_khRWNelAH3Ral3D65tEmTY7yJlBZoVKvy",
+            "widthPx": 4608,
+            "heightPx": 2304,
+            "authorAttributions": [
+              {
+                "displayName": "Rizky Permana Putra",
+                "uri": "//maps.google.com/maps/contrib/116750665420870296313",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsSym3oVdsY_W-8XtJWOBe6n09YSOdWNec5opl8vo5X9lql7o=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXUIhTnBH_vmtlf77CVrQQTfhPctW39aKjUMiF_zWZpxHPmbwIoFqGx4Ed9xcXfeThNYA6dN3qpyLBZ61Bd_6cIe33VuJCk59kARgR7GSm9hlhvA4kUslUztvFKaE0kWgM_YdSgpt0FWhF7qcrVzxdVUIwuwRJUwBp6g",
+            "widthPx": 3000,
+            "heightPx": 4000,
+            "authorAttributions": [
+              {
+                "displayName": "Muhammad Naufal Ramadhan",
+                "uri": "//maps.google.com/maps/contrib/100782651826183782901",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMW77o5Jw9ItfJaJK0s3vVyzsuGEEaEJphltGwgGp7oKes4MbD=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXXLRBrb6NjKMqECV1VETf0kLwqdH9zTtyxip4Yxu8-WUwzvCGRrod_JKu8J9tYBOuTueA6u1jEFdEx6fLRFLEsNjUl0nQz-FF_5wE_jpG1lyg-FutdM-PbbWHFQga_xHJ7uNxC4JZKuPsTlqd0sVLGRJh6W3Lrpe5XF",
+            "widthPx": 1280,
+            "heightPx": 720,
+            "authorAttributions": [
+              {
+                "displayName": "Ajizah Nr",
+                "uri": "//maps.google.com/maps/contrib/110381770758237155394",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWQaIgGcK9CkKMemZhCfa0FTJ7IsIxQehqW-uuushGC-tBroAO_=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXWui9lI3Fsc5oNdypvwKdudnXPbY6M0s-1XVzLCLgdRPKEk7G6oU85_N9F4OB0lko8HPJjOil5Fakg4SWWxelUoJcxyIxVpyVH7A_t_4RWEad0fUkpFsiztyzMGDZ4G3TMtlmbQVcMYLbwF6hEHJ1qCraNQb_BSHXzD",
+            "widthPx": 4864,
+            "heightPx": 2736,
+            "authorAttributions": [
+              {
+                "displayName": "Kamar 404",
+                "uri": "//maps.google.com/maps/contrib/101361502904048901546",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUUsaYO8cHfHaD5ytQYSEbpZpYG9tOaFRB4GnqU_EROP-EV4dVL=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXU81l7MGQqNf1x-_pq0IqNdffng_DwJK3vY8mS0K2wb56S2dyqnuvPr398UzvRL1wFGA7KQPiNsTXsVcG4pNPEgDMZhZpzCAsptQLejEuid1OCLGhJF6h7OymNEK3wfh5mzilHQ_cK78xjvc_B2Iag6hHdlqV7nPL3A",
+            "widthPx": 4608,
+            "heightPx": 2304,
+            "authorAttributions": [
+              {
+                "displayName": "Rizky Permana Putra",
+                "uri": "//maps.google.com/maps/contrib/116750665420870296313",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsSym3oVdsY_W-8XtJWOBe6n09YSOdWNec5opl8vo5X9lql7o=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJQUCUghn0aS4RZ2LYfXQA4Mg/photos/AUc7tXWW97cPWedriIdtHe58Yv9T0F8U0XEFgIgkMnPkwv1wtZivCYQW7N-VXQTdkwJFpVKrAX4xWNdQf03EVw1BP_PPPAZ1SaHYKiu40lRxy7SDSWpLKXxku2DnEhaUHfHTVI8sXScMQ3gVPfE8P20xK7WfQy1r2gy6tbd-",
+            "widthPx": 4608,
+            "heightPx": 2304,
+            "authorAttributions": [
+              {
+                "displayName": "Rizky Permana Putra",
+                "uri": "//maps.google.com/maps/contrib/116750665420870296313",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsSym3oVdsY_W-8XtJWOBe6n09YSOdWNec5opl8vo5X9lql7o=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Kantorkuu Coworking Space, Citywalk Sudirman Jl. K.H. Mas Mansyur No.121, RT.10/RW.11, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220, Indonesia",
+        "location": {
+          "latitude": -6.2090239999999994,
+          "longitude": 106.8183992
+        },
+        "displayName": {
+          "text": "WORLDNESIA - Indonesian Language Learning Center",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURSX3VTS2NBEAE",
+            "relativePublishTimeDescription": "setahun yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "Saya belajar bahasa Indonesia di sini. Saya rekomendasi Worldnesia karena di kelas bisa latihan ngomong lebih banyak dengan guru.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Saya belajar bahasa Indonesia di sini. Saya rekomendasi Worldnesia karena di kelas bisa latihan ngomong lebih banyak dengan guru.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Yoshika Otsuka",
+              "uri": "https://www.google.com/maps/contrib/107217599843231914262/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNrwaxfHweDQPHk-iu-tAHScZlBFlD81i7Vl8m31_cXyc9Hkg=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2023-04-26T11:47:14Z"
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUajdER093EAE",
+            "relativePublishTimeDescription": "3 minggu yang lalu",
+            "rating": 5,
+            "text": {
+              "text": "Saya bergabung untuk belajar bahasa Indonesia. Anda dapat memilih format offline atau online untuk setiap pelajaran, dan kurikulumnya solid, memungkinkan Anda belajar sesuai gaya Anda sendiri. Menurut saya guru-gurunya sangat ceria dan membuat pembelajaran bahasa Indonesia menjadi menyenangkan.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "インドネシア語を学ぶために入会しました。オフラインORオンラインでの形式をレッスン毎に選択する事ができ、カリキュラムもしっかりしており、自分のスタイルに合わせて勉強する事ができます。先生方も非常に明るく楽しくインドネシア語を勉強する事ができると思います。",
+              "languageCode": "ja"
+            },
+            "authorAttribution": {
+              "displayName": "Nesatsu",
+              "uri": "https://www.google.com/maps/contrib/105618370702454154179/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIuTPG25X4GvUSqRMiMjNBalEXpVhf_O1UuRuu0EjBlC3VGcQ=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2024-05-20T11:17:49Z"
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsdlpuOFl3EAE",
+            "relativePublishTimeDescription": "6 bulan lalu",
+            "rating": 5,
+            "text": {
+              "text": "Program ini terdiri dari input melalui e-learning dan output melalui kelas mingguan (tersedia pilihan online atau offline).\nRupanya, konten e-learning dibuat dengan menganalisis kehidupan ekspatriat sehingga mereka dapat mempelajari ekspresi yang diperlukan, dan saya dapat dengan cepat mempelajari kata-kata berguna dalam bahasa Indonesia yang berbunyi, ``Inilah yang ingin saya katakan!' ' Ya.\nDi kelas, para siswa tidak hanya mengkonfirmasi tingkat retensi dari apa yang telah mereka pelajari melalui e-learning, namun juga memperkenalkan tips untuk membantu siswa menyesuaikan diri dengan kehidupan di Jakarta, seperti ekspresi lokal dan tempat-tempat yang direkomendasikan di Jakarta. Semua gurunya cerdas dan ramah, menjaga kelas dalam suasana yang menyenangkan, dan fleksibel dalam menjadwalkan ulang kelas, sehingga saya dapat terus mengikuti kelas tanpa stres bahkan di jam sibuk.\n\nSaya memulainya dengan kemampuan bahasa Indonesia yang nol dan menyelesaikan Foundation Level dalam waktu kurang dari setengah tahun. Hasilnya, saya mampu menghadapi kehidupan sehari-hari dan melakukan percakapan sederhana dengan rekan-rekan saya yang berasal dari Indonesia.\nSaya berencana untuk melanjutkan kursus tingkat berikutnya.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "e-learningでのインプットと週1回のクラス（オンライン・オフライン選択可）でのアウトプットから構成されるプログラムです。\ne-learningのコンテンツは「駐在員の生活を分析して必要な表現を学べるように作成した」らしく、私は「まさにこれが言いたかった！」というすぐに役立つインドネシア語を効率良く学ぶことができました。\nクラスでは、e-learningで学んだことの定着レベルの確認だけでなく、ローカルらしい表現やジャカルタのオススメスポットなど、受講生がジャカルタでの生活に馴染むためのTipsを紹介してくれました。どの先生も明るく気さくで、授業を楽しい雰囲気で進めてくれる、かつクラスのリスケジュールも柔軟に受け付けてくれたので、忙しい時期でもストレス無く受講を続けられました。\n\nインドネシア語ゼロの状態からスタートし半年弱でFoundation Levelを終えた結果、日常生活はそこそこ乗り切れ、インドネシア人と同僚とも簡単な会話が出来るようになりました。\nこのまま次のレベルのコースも続ける予定です。",
+              "languageCode": "ja"
+            },
+            "authorAttribution": {
+              "displayName": "Hiroko Onishi Obayashi",
+              "uri": "https://www.google.com/maps/contrib/106977695015916572146/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwrTcnlj5VI_5TPJVLDjGPP_g-mYGQn8qPR-9DjTFD-Law5g=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2023-11-25T06:25:15Z"
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsZ01lbG5nRRAB",
+            "relativePublishTimeDescription": "7 bulan lalu",
+            "rating": 5,
+            "text": {
+              "text": "Saya bergabung di sini untuk serius belajar bahasa Indonesia.\nGuru-gurunya sangat cerdas dan jika ada yang belum dipahami, mereka akan menjelaskannya dengan mudah dipahami hingga Anda memahaminya.\nSelain itu, agar bisa berbicara seperti orang Indonesia, dia mengajari kami ungkapan-ungkapan yang sering digunakan orang Indonesia, jadi ketika saya ngobrol dengan orang Indonesia, dia bilang, ``Kamu bicara seperti orang Indonesia!'', jadi di Worldnesia saya bisa. merasakan hasil studiku.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "インドネシア語を本格的に学ぶためにこちらに入会しました。\n先生方がとても明るい方で、理解できないことがあれば、理解するまでわかりやすく教えてくれます。\nまたインドネシア人のように話す為に、インドネシア人がよく使う言い方を教えてくれるので、インドネシア人の方と会話した時には、「インドネシア人みたいな話し方するね！」と言ってくれたので、Worldnesiaで勉強した成果を感じることができました。",
+              "languageCode": "ja"
+            },
+            "authorAttribution": {
+              "displayName": "Miki Saito",
+              "uri": "https://www.google.com/maps/contrib/107005978547007502824/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXCjpcgAfBManjn6ePFrufm-WkrTGZd1xOEswa7fTp6yp2Dg=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2023-11-12T13:38:52Z"
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaMjRUcGJREAE",
+            "relativePublishTimeDescription": "3 bulan lalu",
+            "rating": 5,
+            "text": {
+              "text": "Saya selalu benci bahasa. Namun, tempat ini akan membantu Anda menikmati pembelajaran bahasa Indonesia yang diperlukan untuk bertahan dalam berbagai situasi yang dihadapi ekspatriat Jepang (bukan hanya pekerjaan, tentunya), dan dengan cara yang sesingkat mungkin.\nTempat ini direkomendasikan tidak hanya bagi orang yang pandai bahasa, tetapi juga bagi orang yang tidak pandai bahasa.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "私は語学を大の苦手としてきました。しかし、この場所は、日本人駐在員が遭遇する様々な場面（もちろん仕事だけでなく）を切り抜けるに必要なインドネシア語を楽しみながら最短距離で身に着けることを手助けしてくれます。\nここは、語学が得意な人はもちろん、語学が苦手な人にもおすすめできる場所です。",
+              "languageCode": "ja"
+            },
+            "authorAttribution": {
+              "displayName": "桑島誠",
+              "uri": "https://www.google.com/maps/contrib/115889880820343661813/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnnG4mfoquxmV2BKVucHKGN2UOH2k2UO23v1WDOKv4i0y78g=s128-c0x00000000-cc-rp-mo-ba3"
+            },
+            "publishTime": "2024-03-02T05:26:44Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXWhp33-m9Ol6rpvamM8c6cK4yQWv7L_uoRkSkRiQABqbYOfqBlSiQBoiehmEtwj4Ub0beMdJBRwRMNMfYu7ls8pjpofNKHANthJiygRjyOQQRh0QR3F6hqOdRSyVRTivF6g7dP3oMof40mhaL3sPh4cWEnmj3LHvYIm",
+            "widthPx": 7008,
+            "heightPx": 4672,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXWiQsFoN09sz5hmUYXZvDgUcFoTmU590ZE6IyuLy2ignH0txTnvBeqFsm2AFVoZu6Eo3O-WTONI7tjYPFdtFjMb99yWYh3DErktNLJlTszn6kUBtapRGY4GEJ3kxxeg1OQU4vkxgdzsZPVhRP6ak_7StWbtPcDKa8HP",
+            "widthPx": 4000,
+            "heightPx": 3000,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXVkO59EbRZnXfHzXvPH2DisqAyvSguvrU2500bszoPJOIDu56N5C4omVKkgckkhBmVjyht5lAJnFhW4S9q9NZ7-PmrjPlSXN5QhRKPGPjsBBIpUESCtY610OD5OiAriKJwaweBwV1c7BCePSWQ_VCRmnfX71aITMPqX",
+            "widthPx": 12000,
+            "heightPx": 9000,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXXFaIb4FC7xUDctTMtD66rB-D26xxQksPWaqCcjBDwaX2u04o1jsX0wjw1swxecGhNxQjck5IVMUendhy9xl7cMhFP9-7BCJGd7oUU8JGKAeIp8IfnzqkyiRwfQDU0XqSPCBv1LysaEXWiv_hY91pu7tqGzT-0LpCYe",
+            "widthPx": 6000,
+            "heightPx": 3376,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXUhk6fAhXTsuLLqxiu45cuByvYO5QxL5p2ZyPBLYpOuJUEc3bl6ib5f11OTuAHxBlWenwk4-7WHdayQKnfzhGLv6xND2p2xQD5HDWRDbGZHnvx8niqvu3wbC3OVTmy7nAUh4G7UJlu3jg3PW9tP8JOQ5OQRiuIJQuM5",
+            "widthPx": 3000,
+            "heightPx": 4000,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXVpi0Ti5sjImWtIuo8INUtYxuoOFSHi_5146Tx36LPYFBjMddAnMQ7r8jxKBzwLAHiL8V9zDhDV25LH_NqwsjAbFUrt-hdsiugGvdb7ofCirWBVkdUbvikym3M9ubaNRg4t80wynP7nhrv9i7ii3TpmuLAA_Q_M4U4b",
+            "widthPx": 5708,
+            "heightPx": 3808,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXUZZ-klY3_YiNhLH7aWRxP8slvnMsK_Uq3UwEnOF4CMHvgAPDOYJQX8fbniYWcqCMxLiLjY84cVeUGeSGRgaO7INGoysf-JJ9_M8Tq-Eaxdd_am9nJ23G56Yta4h-_AtNJ6dZ1fO6_dhn9psBKzq6j3dlaOMyLPlKQN",
+            "widthPx": 4240,
+            "heightPx": 2832,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXXHwnqPq48qPp8m_e9vNM9mQJM-TObP0Lb-UubXpQZU_tiglRhI94Kt5JG_eS_Z2xMNKY1I-QQfaJjFgwH5ugpVZhn3LhjMXHVxl59SA_GLpTRrgq1fkU-DYxfIcWpBoR1r0MeqEVS1EioUjI9j2zXXX6vubJ1J9NHu",
+            "widthPx": 4160,
+            "heightPx": 3120,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXVUtltfwg0WKobdxpRJt-AHPZmgsHZ3dd_B5pNXr6zNZzlAPmWvPqVCRbaPSWpyLLXVQDd7YwFAPl-r6NzSjUOCZFV5J90iqT8WLiJJkOjMhC_5E0yF20Y7jIZBSqLEvcEBbah2of3q68osS82ygjNUzNdB5vBimV0R",
+            "widthPx": 1414,
+            "heightPx": 2000,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ77H_mgL0aS4RsimWS2jvXyQ/photos/AUc7tXU0Qy8Ck7GzsScIQ1gQ-hB-VnlTjei-SdVFyk3W-Of7L9OKxSgjfRU9-n9vAT3mtHyvLcgGz4bxMmNbLqi_6pydLpnXZDU_Q04UBqeYRxAeq6yOLqGIn7KixzPi_HCf_XmV0tugKtprnL--u8lnC97DJdZI4LIstnqY",
+            "widthPx": 4000,
+            "heightPx": 3000,
+            "authorAttributions": [
+              {
+                "displayName": "WORLDNESIA - Indonesian Language Learning Center",
+                "uri": "//maps.google.com/maps/contrib/103337040889382468783",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk_EjIGrQXl7QQviuj435VVizuebXhL-9nCwbO7PzYxUD35jRI=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Jl. Sumenep, Menteng, Kec. Menteng, Jakarta, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+        "location": {
+          "latitude": -6.2009295,
+          "longitude": 106.82646
+        },
+        "displayName": {
+          "text": "Fenix Hero Aquatic Design",
+          "languageCode": "id"
+        },
+        "photos": [
+          {
+            "name": "places/ChIJX4licn71aS4R0UekRIAYqeY/photos/AUc7tXXiiVN3jy6SqAyeLvcyfFK2BfacfxI7GdrKRGHKR2azDKGzYz10NmIDimGB-i8n-ugd9WSyg3HFg1fi9CaFpjyYUv62IFgRkpRgxrUeNxGQVnISZUB2WSqf6moQmwPMJavzsUEO7VULId2vn8K6Q6MdoxCgHsAac_IO",
+            "widthPx": 9280,
+            "heightPx": 6944,
+            "authorAttributions": [
+              {
+                "displayName": "Fenix Hero Aquatic Design",
+                "uri": "//maps.google.com/maps/contrib/101505579233867346057",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJBqD515PbeSkMbLpYFPs0Y7E75hrRlzXI3ouv6MJ3tfjEVaA=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Pusat ikan hias, QRXG+9XP, Jl. Sumenep, RT.11/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+        "location": {
+          "latitude": -6.2015379999999993,
+          "longitude": 106.8274569
+        },
+        "displayName": {
+          "text": "Kios aquarium air laut",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJ0bzVud_1aS4RHymKYJnHs04/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUb3VHX0hREAE",
+            "relativePublishTimeDescription": "sebulan yang lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Aditya Fahmi N",
+              "uri": "https://www.google.com/maps/contrib/104046666803895747585/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1N2ECYYLGTtIJ4u7rRhLSSoD91NaXXkh5bgnB-yubSgdHngMG=s128-c0x00000000-cc-rp-mo-ba3"
+            },
+            "publishTime": "2024-05-12T16:01:34Z"
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Jl. Sumenep 11 No.4, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+        "location": {
+          "latitude": -6.2015211,
+          "longitude": 106.8270404
+        },
+        "displayName": {
+          "text": "Royal Aquatic marine",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURXczRlMGZBEAE",
+            "relativePublishTimeDescription": "2 tahun lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Mas Doy",
+              "uri": "https://www.google.com/maps/contrib/108482689927046386078/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvfCIvRGPWJe2ONsyvdkaWo1Rl3WKNbhADqrH3_bYpjnZkZR9q=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2022-04-03T18:33:51Z"
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2Mk15X1lnEAE",
+            "relativePublishTimeDescription": "2 tahun lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Andry AST",
+              "uri": "https://www.google.com/maps/contrib/106839130463949844862/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI00PYFWADKwhYq5r-KK_5Or0V99MEnlXwzRtbEMMb6B2XRiLM=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-09-20T05:06:33Z"
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURhZ3RmNUx3EAE",
+            "relativePublishTimeDescription": "2 tahun lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Dodi Kartono12",
+              "uri": "https://www.google.com/maps/contrib/110890344746234658450/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-08-17T04:56:50Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXVlgpVKTFOrU0xlJ25B_vaqkEKNjaGwLgx9SyLaZHf05RiTXxpy39vxQUeutrNXKBse6VjPTqsC-WCCSWM84pCQ6e8bY9sGpWhqhG2GKz3B0VMEursSslclQClYECZAAwK2kjvUg3Bzzba1y_MGHnk4eAoFKmQKa1Cy",
+            "widthPx": 3120,
+            "heightPx": 4160,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXWVPUNFjdlUsxirHXy1HYIZ_fuU-r7KJgpYlMaBz-EoIpeLk8agv5uKYnupbRRHWS0RgOdQs3u1L90n_C1dp4QESvHSA7vxIdjewiNo--YE5yUcK4eg-I_t6pgxECYAQPdNGwJldJUFGNTVS23X-x0B9dRQNO4BYvlK",
+            "widthPx": 3120,
+            "heightPx": 4160,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXWHCPERCqSFlF4VdRwp22hA7DHkAyn2X2qFBWqMAbGeRtQ2WADhfZAE1uzSVgvqFtH-8k9I7bGC8tc-fWUYEKIHfKBXuwIjvlTUqxBx35kzL76tXKbfaINskG0o8e8NkGxIV6bI20Wo_jZUe2QkeRXeV-KR-2xM4m3x",
+            "widthPx": 3120,
+            "heightPx": 4160,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXXCXUj0dsz9XZoBnCnvOkhcKIyJFCjyrYlYTEb9XrcyJ3y_8JFKnaaJVNOoFFb3hzBeNgmPrOHuFyjOoybOPgDZB8Xs3--rTPbA9ZC0gsPTqhk-TG4YtDyyHGKU-UrBTIpV1U_V_HoPN15nCCFHAVsunOr92FHUsNnf",
+            "widthPx": 3120,
+            "heightPx": 4160,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXVtjWkiHObIkBmIgTqKxU9kWQqV0Pcr74BZPLoEA92fWLe90n5FGmfqQ-PJnwhzN9kVc2sTSSDSX-2S0iCA-Negiupd57HG_a-Ux_7WqSW1jLlpZJpQYB1FR--J2nuU-2XPOFr5gXZSAm1z1HGXRUVHSWQJZZGllQRG",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXVfxaBkVtAxuyDFW4KFY_j_y8_cGV1TFC0mmRTaFz4b7LwB3jIe-SJCt7VV_pUXgP_7sDwouMxZmN9mDc9LpcgHINbrBoUoX4p7u4-CLW0BJf6-F6oCVIOYfEEUWlLe-rClJ74-54MBgS3vIF0B7xDeD-udgoAoP_oH",
+            "widthPx": 3120,
+            "heightPx": 4160,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXVGguaHGAa4Ahk6OvR7FyslyTpoa7wKomSQq83hOaFWPNmfYllPo595ja78Yxb4tivqWO5cro9SwoWl0zx9X4O5rM_n_MB0vxf-Wpyvu3_SPe8YUPd2e_sZPiy-Gdv7_DpY84oQMOe61a8whD6uFPRlIwFzmEnDGZSb",
+            "widthPx": 3120,
+            "heightPx": 4160,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXXBmqgp-bbINLIDQFCK6qfVYc3Klr8aWVd8DZuGXg2JM3kofKnn5j_5vDuEGocLxBHA9VvyDhu5cOe__Sgh6Hy0KuNwCDRy0-r52xXA3mMQ1RrI26vFiu2BGxmXHzzSpfFTw46rDiky3T3O8FzVlajveJnSbCwvVBaF",
+            "widthPx": 3120,
+            "heightPx": 4160,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXVWZSylUyOAF-iqKpZVn79B3NdHkm92jTjnXhj2WvtRorjMMAudei3F4DLetYGQa6F72vTlt91YdtjjJBWUXPbVdjLN8_PQSz9pKahNXhQiz2NhXFRp8NRSsNBfLk_DIM9dKv0pVDdTweJPXZ9oLv-n-8q-0jpt9tIn",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ2dlYVML1aS4RJn1IAXCtleQ/photos/AUc7tXUS_haokVV6bkgsutq3wkdtvUebAc5u6faWegc8lbvyxIrSohiXJtJzLzE-CkNNfanp3CFKU8ZApVL9YhK_XvZV2IvQsBrjgD1Vg2HSHJe-KAFnZGuudlIW6-GMxyU3G00QLsCrKnCl3iJ9bgjd4Pal6L_Bt_ea53UF",
+            "widthPx": 3120,
+            "heightPx": 4160,
+            "authorAttributions": [
+              {
+                "displayName": "Dodi Kartono12",
+                "uri": "//maps.google.com/maps/contrib/110890344746234658450",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKPQVm9aCvV_GL0VN37WSvHhPq9DnmpKJWeYXXVTtmYXELufg=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Jl. Petamburan I Blok, Jl. Jati Petamburan 1 Gg. III No.1, RT.11/RW.1, Petamburan, Tanah Abang, Central Jakarta City, Jakarta 10260, Indonesia",
+        "location": {
+          "latitude": -6.1904293,
+          "longitude": 106.8084081
+        },
+        "displayName": {
+          "text": "TAMAQUATIC",
+          "languageCode": "en"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5a2Vqdnp3RRAB",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Harga bersahabat, belanja macam2 dapet potongan pula. RECOMENDED!!",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Harga bersahabat, belanja macam2 dapet potongan pula. RECOMENDED!!",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "galih hardian",
+              "uri": "https://www.google.com/maps/contrib/116415430806244185756/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV939kWFDgp8oDfbCy-fPV66UpgzcCR9m6VkY0zkPQC74vmVpM7=s128-c0x00000000-cc-rp-mo-ba2"
+            },
+            "publishTime": "2021-03-10T14:28:48Z"
+          },
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5a2ZTNGVREAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Pelayanan nya the best, tingkat akurasi pengiriman nya sangat cepat.. semoga makin jaya tamaquatic sering-sering kasih promo kak..",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Pelayanan nya the best, tingkat akurasi pengiriman nya sangat cepat.. semoga makin jaya tamaquatic sering-sering kasih promo kak..",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Tri Murtaki",
+              "uri": "https://www.google.com/maps/contrib/104774478121854832809/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFVsFN71yf5x-diNUB--ZnpT0-_-XT1HrgRrf5DJ1X6tFF-TPK=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-03-10T14:53:39Z"
+          },
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5a1pIMURnEAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Lokasi sesuai titik trus ada di tokped, shoppee, bukalapak. Ownernya ramah dan dapet diskon kalau ambil banyak",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Lokasi sesuai titik trus ada di tokped, shoppee, bukalapak. Ownernya ramah dan dapet diskon kalau ambil banyak",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Desti Ramadhanti",
+              "uri": "https://www.google.com/maps/contrib/109913226636327086511/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2s_fsEjoGVQDiwRqOTVorA3wQgcRDe0D6euVK1D5wFdRusbtttQ=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-03-10T16:34:10Z"
+          },
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5OGFDcHNRRRAB",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Wah emang nih tempat recommended banget sih.. dan ada di tokped juga, harganya bersahaja kalo mau beli aquascape",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Wah emang nih tempat recommended banget sih.. dan ada di tokped juga, harganya bersahaja kalo mau beli aquascape",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Safiyya Bilqis",
+              "uri": "https://www.google.com/maps/contrib/112567268459663037535/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0W5fdW1LBxPEYaEMfvM6yf0e9k-c7VoSmUlBHVaR9kBTm4w=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-03-11T09:08:55Z"
+          },
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5bGZpTEJBEAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Dapet salam dari ikan saya, katanya makasih barangnya bagus... Besok rencana mau order lagi min.",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Dapet salam dari ikan saya, katanya makasih barangnya bagus... Besok rencana mau order lagi min.",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Almeera Tsabita",
+              "uri": "https://www.google.com/maps/contrib/101164572199528765655/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsu4Kmf0hdxueA5hPYXJFezYn59EGXF-tSg6Xs1KQQrzD5Xw=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-03-14T16:21:52Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/photos/AUc7tXUC-JsGkqiEM4C7ZWQL6dUTPyHVTJ87MVatTbqQYt3toiR367-wvo2fs5ssZmd3Jv8kpH4k7JwELVtwhHkp5bDGIZg9gJD3jy3Nv3s4fpNlag_1tAbBVcXF22JAxN7lQPDmDOJ1JOclUGxBpCW2LQoImnQAUtlU3owZ",
+            "widthPx": 4032,
+            "heightPx": 1960,
+            "authorAttributions": [
+              {
+                "displayName": "galih hardian",
+                "uri": "//maps.google.com/maps/contrib/116415430806244185756",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV939kWFDgp8oDfbCy-fPV66UpgzcCR9m6VkY0zkPQC74vmVpM7=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/photos/AUc7tXVk9mHl7GNWocS1VCrSlPnnZW12pmZuu_fR3tMDGW0oqvZGIt9PNiMxR8vgM6QAWOGDgnZqJfgI26X1NLxzaQXRcEjOVynLwAGiTxxs9R9AsVn_2d8S0Yi4z60fN4t_HNdA65Yu7KlaTwk4YS9Xd5Z_dV9mHbSMYMn9",
+            "widthPx": 1279,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Ayu Destiany",
+                "uri": "//maps.google.com/maps/contrib/108701113547394764854",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXHdJv5Cqca3upf3fk48P2pWMUcNcQM32AHf43Hp9eQhhosOg0D=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/photos/AUc7tXUXWzTZ-LqTmc4cv09M1c5Z15IUBKDFXhJ1XIfJA9u1XYJsKXcTlfBJX5W8PTMFrsP5EqNLD-nwq2KKldrnc_UvRmoZzx2huQyweggtSI_ofAnw1VuONUFumMP4vL35ROL2VXY0s0lb2TUPrBtMwFWZwU71vA9avykq",
+            "widthPx": 2136,
+            "heightPx": 4624,
+            "authorAttributions": [
+              {
+                "displayName": "Ayu Destiany",
+                "uri": "//maps.google.com/maps/contrib/108701113547394764854",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXHdJv5Cqca3upf3fk48P2pWMUcNcQM32AHf43Hp9eQhhosOg0D=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ55fQW0_3aS4RpGngnoWbpfg/photos/AUc7tXUORzKGoqvvKPCOx8f0yVYtSIox2MOZ1eaiJsnRf1pY4s995svTmU6Jlwh3eBJBhZ38mjQOJzVlUgwfkuVVfMiyFWO3Zjq5H1jm4S6SWyg8FCP_JJNkeEhRLd_HI1jqxPVvRXkVw9IvHU8jh7nOyFEJ7NpO-8WXwiJi",
+            "widthPx": 4624,
+            "heightPx": 2136,
+            "authorAttributions": [
+              {
+                "displayName": "Ayu Destiany",
+                "uri": "//maps.google.com/maps/contrib/108701113547394764854",
+                "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXHdJv5Cqca3upf3fk48P2pWMUcNcQM32AHf43Hp9eQhhosOg0D=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Jl. Sumenep Jl. Taman Lawang No.189 190, RT.11/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+        "location": {
+          "latitude": -6.2007318,
+          "longitude": 106.82616879999999
+        },
+        "displayName": {
+          "text": "d'biRRu Koi & Akuarium",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3bk9PNzlBRRAB",
+            "relativePublishTimeDescription": "2 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Pemesanan Akuarium bisa datang ke toko ya.. Barang Ready/ PO\n\nInfo lebih lanjut silahkan kontak ke:\nOwner\nPa Yunus 081383088777 (tlp/ WA)",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Pemesanan Akuarium bisa datang ke toko ya.. Barang Ready/ PO\n\nInfo lebih lanjut silahkan kontak ke:\nOwner\nPa Yunus 081383088777 (tlp/ WA)",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Yunus Ramli",
+              "uri": "https://www.google.com/maps/contrib/103876411539150366550/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s128-c0x00000000-cc-rp-mo-ba2"
+            },
+            "publishTime": "2021-12-31T11:38:00Z"
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2N2V1d3hRRRAB",
+            "relativePublishTimeDescription": "2 tahun lalu",
+            "rating": 3,
+            "authorAttribution": {
+              "displayName": "Pernah Ada",
+              "uri": "https://www.google.com/maps/contrib/112661181792113680467/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0kmnwe7VLOv9629ML6ddySBfbwX2fDd8gH9Fsj85guyEyN0_gTA=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-10-08T04:20:43Z"
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNei1qNXNBRRAB",
+            "relativePublishTimeDescription": "4 tahun lalu",
+            "rating": 4,
+            "authorAttribution": {
+              "displayName": "DWI MURDIANTORO",
+              "uri": "https://www.google.com/maps/contrib/106306449267988857085/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyFCi0p5nb_ZUySENiOq_hZsIbI8_u0FCxjNcyqigH4vnvpHAD=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2019-12-10T08:00:03Z"
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVcElhTmp3RRAB",
+            "relativePublishTimeDescription": "4 tahun lalu",
+            "rating": 1,
+            "authorAttribution": {
+              "displayName": "Dimitri Surbakti",
+              "uri": "https://www.google.com/maps/contrib/103358543628516670291/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLYOxWZIwZttbapjKBrxib-3JHXPIPYhz0k1ZQsD8qe9h1SHw=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2019-07-18T04:45:56Z"
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLamNXbUpREAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Ryan Hady",
+              "uri": "https://www.google.com/maps/contrib/116414934233435751377/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLJXG_pSH8iF70NM8fmx__UJBt4MaLMq3vNPE1Nea4pyCy4DA=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-04-14T07:33:53Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXUl8Ujo0Decl78uypbCgW19m2IOGtOSz4Jas2CWufWbfEvlGAIBgDcg3MIBtu7i3Fy18dCmQR6t5sSJQ2gDWXPvqEkYnugGhttMyhC9z5uFlDVWWDGMqdMZhLRjt0ntvXn2Cs51U3c6NtEprorVMdPVI_MeOIqGrRcO",
+            "widthPx": 3000,
+            "heightPx": 4000,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXWVM7_626oH9QLaa6a-SfcQnLAqWFx3rybueEF530JOEE0R-Z644QztmGi4Y7dp71GBUwL-LWQSajWRirgjUN6JqvtAUlcMYrd-tc9Avw3gOf6XY5bftbUERqCPUC8bMOEM5p4yX-uM-tdQG3sXB8Vj5M1LDPRIesI-",
+            "widthPx": 720,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXWhSMZTzCBoK0HTuObblwqlgu74sR_HUiqw7ty9I2HdyLXcg7XSCBTO1PGag_kXciUtWn1usdg7HoGchX3r9nF4nWlU2dEMwG5roUPJNmGwxQy9Vyeq6MTcHDJg3aUf9sKStsi8cvZ48CamWbLFn4KlQ86YfDJICnAw",
+            "widthPx": 1280,
+            "heightPx": 960,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXU-bK6zDG5oLkLRj9vkJsfn06AMgwC9rOjb8gpb1GgHI8c0PBKOCpdgHj6s6qZXzg38gFjqGrQbs4kjQ2f3Aye-TLnyf9arAYrjrO5B-wnU9JD_eSVu2TYOBslfItnGUZCqbRlF_TlU8Ad6dYN8somWMelTCNVh-Ord",
+            "widthPx": 1280,
+            "heightPx": 960,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXULEYJ6DvyCf4xItDckKtWrxpY89vh8FqhmVZ55WlHwOs3cnHHs2NPKNB2u44G2PUnt5OQ9r7Htm_0XVcqBF5_JYPN_CrNasZokDQuraYFdfwIw39AMCFYn_lX1L07yQ7ThH_EdZPnzSFKs_c7F5RxO2pZaeOrufUKp",
+            "widthPx": 1280,
+            "heightPx": 960,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXXt4maBR4K4xI5B_x24jIakqfpZOdVUw0qaBFCFeimDeBbiBi3D-VINBmF8epMQ10Y_2D36dbz4MN1cwdPbF2lP5T-8nExJX6e1mK-461ICjscPkut6U_f-0DNnv1NwtYcZmMCXyBKr-5SUNag9U63paPTbiSqw9wj0",
+            "widthPx": 1280,
+            "heightPx": 960,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXVy-4rewjWJzOTO-orrXNaOYqJRAwqbkF2Peh69Qh7s_9Z0OAZcLoapPJthWhN8HolK12ZiC7lbrwHmzwEVuS8NJMil9bjur8x9qtDqsRbPv-_pLy6i-0Yr1f72xW0zt_JE58z2_XzP24V2dPL8TdGlhD5cClTZpXgA",
+            "widthPx": 1280,
+            "heightPx": 960,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXVqn07xnKpxSLTFG6Gk2r0juk4tjUzh_25cDKtp4i_bTY0fclkw30hVgoj1FP3CA2FvtL3OsFYU-tC3jsiIMsnyDSvY21PekXmmp6l6jC4FO9bgmmEu2vFwvdnrGfix64je0PbP8l4eYMrr6Spib4HiA2NsND9iffPD",
+            "widthPx": 3000,
+            "heightPx": 4000,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXXLffy5TMOyGJjRhQV6_HoljHW0mqrqJuk98m5N0KZQpXCBZ--TDVE48ZSJrOoFiashRzDYNsP95fsFm-ivaFYf-YU-ggYWekBSF1Iza7gepfueqcW4m31Q1ArAU4JEpAf9_IQO0s2t1RDJUMBqr7BuTzI1v1U3K2SK",
+            "widthPx": 3000,
+            "heightPx": 4000,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJ_WkqjrjzaS4RKvOJvxXW7f8/photos/AUc7tXXVQ1JleH8T4IqZgS1stsJW8nu3C7c8gg9Fy9gzV_hcnh9He_44tlLAj3-7Vt-n6d4-jKycv25Q2LBVzwqjM3uIBxc0gX0WQPEhX8QvTQJbqJhuPgHJQYf75qAJlhX1CHGhdKXcsJEGbqkk-EPfHfogLdtZqxfJ4M9j",
+            "widthPx": 960,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Yunus Ramli",
+                "uri": "//maps.google.com/maps/contrib/103876411539150366550",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4UCu8Hp7iFq4qj_oME_eX8qgYWIz7AXlaOxtiOy95L9HyyQ=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Pusat Promosi dan Pemasaran Ikan Hias Jakarta, Jl. Sumenep Kios No. 167, RT.11/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+        "location": {
+          "latitude": -6.2016668999999993,
+          "longitude": 106.8271388
+        },
+        "displayName": {
+          "text": "Mina Samudra Aquarium",
+          "languageCode": "id"
+        },
+        "reviews": [
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2cU1DUzZnRRAB",
+            "relativePublishTimeDescription": "2 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Pempek \"Cek Oma\".\nBerdiri sejak tahun 2008\nTersedia kuliner masakan Asli Palembang, antara lain :\n1.Pempek  Kapal selam, Lenjer, Adaan, telor, kulit, Pistel dan Tahu\n2.Pempek Tunu, Lenggang, Otak-otak\n3.Tekwan, Model, Celimpungan,\n4.Kue 8 jam, Maksuba, Bolu kojo, Engkak ketan, Srikaya, Lumpur surga dll\n5.Pindang Tulang, Pindang Patin, Rendang daging dan Rendang Paru.\nPaket yang tersedia : Standar, spesial dan jumbo\nPaket Ulang tahun, paket Parcel dan paket lebaran...",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Pempek \"Cek Oma\".\nBerdiri sejak tahun 2008\nTersedia kuliner masakan Asli Palembang, antara lain :\n1.Pempek  Kapal selam, Lenjer, Adaan, telor, kulit, Pistel dan Tahu\n2.Pempek Tunu, Lenggang, Otak-otak\n3.Tekwan, Model, Celimpungan,\n4.Kue 8 jam, Maksuba, Bolu kojo, Engkak ketan, Srikaya, Lumpur surga dll\n5.Pindang Tulang, Pindang Patin, Rendang daging dan Rendang Paru.\nPaket yang tersedia : Standar, spesial dan jumbo\nPaket Ulang tahun, paket Parcel dan paket lebaran...",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Despratman ST MM",
+              "uri": "https://www.google.com/maps/contrib/114262372339555049946/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-08-29T13:19:54Z"
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5LU5tZENnEAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Toko coral dan ikan air laut langganan saya , recommended karena harganya merakyat ..",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Toko coral dan ikan air laut langganan saya , recommended karena harganya merakyat ..",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Eri Wijaya",
+              "uri": "https://www.google.com/maps/contrib/107827560101769672524/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUi-9NvNPiHs7dmx38XPmSu-j-vC4X9GUIYp04CS85dbgn-MfOU=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-01-19T12:34:48Z"
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvOF9QQzVBRRAB",
+            "relativePublishTimeDescription": "5 tahun lalu",
+            "rating": 5,
+            "text": {
+              "text": "Nah ini rekomen bgt...tempatnya murah dan bapaknya ramah ramah",
+              "languageCode": "id"
+            },
+            "originalText": {
+              "text": "Nah ini rekomen bgt...tempatnya murah dan bapaknya ramah ramah",
+              "languageCode": "id"
+            },
+            "authorAttribution": {
+              "displayName": "Tri Agni",
+              "uri": "https://www.google.com/maps/contrib/100092267211015321195/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvjGI_DQwMDubVLCcSNOzNL1hhjRi5uG78jqdagRoF756Nmw=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2019-02-28T08:11:54Z"
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5cjdhdkVREAE",
+            "relativePublishTimeDescription": "3 tahun lalu",
+            "rating": 5,
+            "authorAttribution": {
+              "displayName": "Amin Sidik",
+              "uri": "https://www.google.com/maps/contrib/112286827774559816951/reviews",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtVfOJGk0TWt5ItlZOWukQjYqaQhBvnACLPe1cbCWOUgqh0jJm=s128-c0x00000000-cc-rp-mo"
+            },
+            "publishTime": "2021-03-22T10:32:07Z"
+          }
+        ],
+        "photos": [
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXXksKXecjQxTk2OUqHymVte3lWH1aczlFM_uGiizzEB3FdYd47B9KtVCdCC7J8jHI4QgBy7w-4rh-IejTkKqOdMCYLqmbnXTaSRsjXomhPudu-DMB6QZXd1IZmUt-n7zNQdEPkpAAo1PqM81iBFlkshLdivHQG8n4RG",
+            "widthPx": 960,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Despratman ST MM",
+                "uri": "//maps.google.com/maps/contrib/114262372339555049946",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXWwe-9pzmvazwzWrVrmSrRh3mF3MzQl03TK2L6otZsejL-9anLXec30Ahic0-zOfHTJxaMey5_ruVFu0V_IFXtepVZpAcLa3k4lF9LWVS10TIWkpeqq3Xxde6SSwgZqSj4VB63ROqWXarUyL6zdgiXEo7uyU8MVpndI",
+            "widthPx": 960,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Despratman ST MM",
+                "uri": "//maps.google.com/maps/contrib/114262372339555049946",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXWjBaiAsX6uo9FjC4Td1_RKSX1xn6JE2IIUITXruzqC5pXvpF8Aq1u1lIhCHC0c--H_wb0vlzfC36pnoYPaAFwYgqsVaHxJpUqqvgKHSPgihxtpr1nGu96J9Q6VrkjV6tX_8WpeH1HR3t2LJylvZVPxf3AS1kVHgIot",
+            "widthPx": 1280,
+            "heightPx": 720,
+            "authorAttributions": [
+              {
+                "displayName": "Despratman ST MM",
+                "uri": "//maps.google.com/maps/contrib/114262372339555049946",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXX_MNBRoXlKs5QC-Yqa3EoeYmM5xeY7MZQ2wamgHzcHWvTPCVkOOjNuCMELzL6GHO6t9zBBjLz2MMcjY7Gi7tiV9nU-G8jTCvwLINTzQKariJS1dJm12mTBdrcvlSnLPJ_bNDLN9k_kjz4lmiWTYB9gwU6p_a1TIASG",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+              {
+                "displayName": "Mina Samudra",
+                "uri": "//maps.google.com/maps/contrib/109376015441787738623",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJEPUjvWHbYop-cbSUy_6cDbBuXMQTRRpReOW11mSPVdTC_6w=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXVR8b3iUNaiocF2uowiwUkR2wv5nKOqh61PiaqqpycJ0RvLW7acAG1ZJoPxaxlY-EmG1yVCKLsk6yvAd5xgREcfRY9rC6rgrewJZgawctc_VIj1NxCyIaAmjaOi0JAPmaRWzt4I4Xcj2IsY7AylMGJZG5WZtso33BUD",
+            "widthPx": 960,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Despratman ST MM",
+                "uri": "//maps.google.com/maps/contrib/114262372339555049946",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXULS32M0gm2vlz_p_RVgimorMtj9xgcq6CMA9AonJQtU_WDb_HX5mHJ10WNnQKH5CQZljamMYxVkSvl90M5ou0fRmuNTEBCTlMv1_KmnK0HWZ1_-fvXMHNEwyegJJo3i0qJL5zeJvGD-uZ4Y6Sv6aUSqEnzZwEzno7C",
+            "widthPx": 720,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Despratman ST MM",
+                "uri": "//maps.google.com/maps/contrib/114262372339555049946",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXUHLpeY6JftI4jMen7QwTrFiLwWGNg_RBXyZ6enMn5_U_SWRNHI75XeqNkZxLRzfzPhmENqkRZbRl1paVxg4GFqDw6V9n5tPsbI3rjrO5UIEi6TGA-MfS-m9a4D-bIXF6TM9wMjyh3VhL5NDVc_wPPeNci-li7r78Wx",
+            "widthPx": 720,
+            "heightPx": 1280,
+            "authorAttributions": [
+              {
+                "displayName": "Despratman ST MM",
+                "uri": "//maps.google.com/maps/contrib/114262372339555049946",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXXjC01cDK5CcrRrWpvLVsDc0PXvTMNFJMLAbGW_deriSlq55T-_ZsvO8W6g_qy1r0BDAHfcuzBjYxfnr12SqdJ0rGP85FjwRZ7SUBm3UzrjKp-qPQNRFC95JxoUvMC1Q-UxMYqSJ0AE-c9aNoSXsL3jSGIgouLgFZ4R",
+            "widthPx": 1280,
+            "heightPx": 720,
+            "authorAttributions": [
+              {
+                "displayName": "Despratman ST MM",
+                "uri": "//maps.google.com/maps/contrib/114262372339555049946",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s100-p-k-no-mo"
+              }
+            ]
+          },
+          {
+            "name": "places/ChIJyUSbtYmh7S0RLFZesvk_vVw/photos/AUc7tXXVzfholyI2TCFViF-EtaJsG5-vwVMv7FMzIlrfhM5h2gH-8WkZkFDXCxnJYJMKjd4-lo2tCCLPXEOKnGcRzOj-K5GtAEx_JfOl9WxPLwpk-0pcXKveqP1sV-SeaphhDe6mUD1CMR59PRcCjPhZ8vse9Ar0ck1O8j6S",
+            "widthPx": 3157,
+            "heightPx": 2760,
+            "authorAttributions": [
+              {
+                "displayName": "Despratman ST MM",
+                "uri": "//maps.google.com/maps/contrib/114262372339555049946",
+                "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKgq_iliEywcdE7IPb3UR65rf0Hxod_B-RRskU55uPfFgjSA=s100-p-k-no-mo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
