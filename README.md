@@ -15,10 +15,11 @@
 3. Jalankan server ```fastapi dev main.py```
 
 ## Route API
-API dipakai untuk fetch data ke Google Maps API untuk dimasukkan ke model ML
 Route API ada dua: ```api/get_travel_spots``` & ```/api/predict```
 
 #### api/get_travel_spots
+
+API ini dipakai untuk fetch data dari Google Maps API yang nantinya dipakai sebagai input model ML.
 
 ```/api/get-travel-spots?includedTypes=[KATEGORI1]&includedTypes=[KATEGORI2]&dst...&radius=[RADIUS]&longitude=[LONGITUDE]&latitude=[LATITUDE]```
 
