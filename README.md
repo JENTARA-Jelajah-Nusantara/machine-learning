@@ -29,7 +29,7 @@ Route ini dapat menerima 4 params:
 3. ```Longitude: float```: untuk mengetahui lokasi user.
 4. ```Radius: float```: Maksimal jarak pencarian lokasi. Misalnya 500 m, berarti tempat wisata yang direkomendasikan berada pada radius 500 m.
 
-Contoh penggunaan:
+Contoh penggunaan.
 Misalnya kita mau fetch tempat wisata dengan rincian:
 1. Kategori: zoo, restaurant.
 2. Latitude = -6.2088 (Jakarta)
@@ -46,9 +46,10 @@ Param yang dipakai adalah:
 API ini digunakan untuk mendapat rekomendasi tempat wisata. Input API ini adalah response yang diperoleh dari ```/api/get_travel_spots```
 
 Route ini dapat menerima 1 param:
-```Limit: 3```: Jumalah tempat wisata yang diinginkan user. Misalnya user pilih 3 maka API hanya return 3 rekomendasi tempat wisata.
 
-Untuk mendapat rekomendasi tempat wisata, tinggal POST response dari ```/api/get_travel_spots``` yang berupa JSON ke API ini. Data yang diperoleh nantinya berupa list (dengan jumlah sesuai ```Limit```) tempat wisata terbaik. List no. 1 merupakan tempat dengan hasil sentimen terbaik, dst. Ini format response yg didapat dari API ini:
+```Limit: int```: Jumalah tempat wisata yang diinginkan user. Misalnya user pilih 3 maka API hanya return 3 rekomendasi tempat wisata.
+
+Untuk mendapat rekomendasi tempat wisata, tinggal POST response dari ```/api/get_travel_spots``` yang berupa JSON ke API ini. Data yang diperoleh nantinya berupa list object (dengan jumlah sesuai ```Limit```) tempat wisata terbaik. List no. 1 merupakan tempat dengan hasil sentimen terbaik, dst. Ini format response yg didapat dari API ini:
 ```
 [
    {
