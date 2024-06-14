@@ -41,8 +41,8 @@ async def predict(data: PlacesData, limit: int = 3):
             'photos': place.photos,
             'averageSentiment': average_sentiment
         })
-
-        sorted_res = sorted(res, key=lambda x: x['averageSentiment'], reverse=True)
-        limited_res = sorted_res[:limit]
+    
+    sorted_res = sorted(res, key=lambda x: x['averageSentiment'], reverse=True)
+    limited_res = sorted_res[:limit]
 
     return limited_res
