@@ -5,7 +5,7 @@ LATITUDE = -6.2088
 LONGITUDE = 106.8456
 
 # Radius untuk mencari tempat lokasi, dalam meter
-RADIUS = 1000
+RADIUS = 2000
 
 # Jenis tempat yang ingin dicari (contoh: kebun binatang, pusat kebudayaan)
 # Kategori mengacu pada Table A Places API
